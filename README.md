@@ -1,5 +1,35 @@
 
-# André Bonfim - Segurança Cibernética
+# 👋 Hi, I'm André – Cloud Security & AI Governance Track
+
+I am a Cybersecurity student at **Masterschool** (Berlin) on a **Cloud Security Architect** track focused on:
+
+- 🛰️ **Google Cloud networking & security** (VPCs, subnets, firewalls, load balancing, hybrid and multicloud)
+- 🔐 **Security in Google Cloud** (IAM, logging, vulnerabilities mitigation, risk management)
+- 📡 **Packet analysis** with Wireshark
+- ☁️ **Multicloud** exposure with AWS + Kubernetes (EKS)
+- 🤖 **Generative AI governance, policy and emerging regulation**
+
+## 🎯 Current focus
+
+- Building hands-on labs in **Google Cloud** (network security, load balancing, mitigation)
+- Documenting **multicloud security scenarios** (GCP + AWS)
+- Connecting **AI governance** with cloud security and compliance
+
+## 📜 Selected certifications
+
+- Security in Google Cloud – Specialization (Google Cloud / Coursera)
+- Managing Security in Google Cloud
+- Mitigating Security Vulnerabilities on Google Cloud
+- Networking in Google Cloud: Network Security, Load Balancing, Hybrid and Multicloud
+- Google Cloud Fundamentals: Core Infrastructure
+- Foundations of Cybersecurity (Google)
+- Generative AI: Governance, Policy, and Emerging Regulation (University of Michigan)
+- Wireshark for Beginners: Capture Packets
+- Kubernetes in AWS: Create Cluster in EKS in your own VPC
+
+## 🌍 Where to find me
+
+- LinkedIn: [André Bonfim](https://www.linkedin.com/in/andré-bonfim)  
 
 ## 🔐 TryHackMe Badge
 
@@ -7,7 +37,7 @@
 
 ---
 
-## Formação
+## Education
 
 -🌱 Atualmente cursando **TI em Cybersecurity** na **Masterschool Institute of Technology** (Germany)
 
@@ -41,19 +71,3 @@
 - [LinkedIn](https://linkedin.com/in/andré-bonfim-a2557b301)
 - [TryHackMe](https://tryhackme.com/p/a.bonfim.tech)
 - [Coursera](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059)
-<!--
-**a-bonfim-tech/a-bonfim-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Adiciona badge TryHackMe e apresentação
