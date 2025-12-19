@@ -65,8 +65,8 @@ These certifications consolidate my ongoing training in cloud security and AI go
 *In progress… new projects will be added as studies advance. Each lab includes diagrams, ADRs and reflections on trade‑offs.*
 
 ## 📊 Contribution statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech)
 
 Replace `YOUR_GITHUB_USERNAME` with your username to display real numbers of commits and languages. These metrics help recruiters visualize your activity and technology focus.
 
