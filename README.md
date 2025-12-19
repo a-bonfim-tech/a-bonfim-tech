@@ -65,14 +65,49 @@ These certifications consolidate my ongoing training in cloud security and AI go
 *In progress… new projects will be added as studies advance. Each lab includes diagrams, ADRs and reflections on trade‑offs.*
 
 ## 📊 Contribution statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
+Replace `YOUR_GITHUB_USERNAME` with your username to display real numbers of commits and languages. These metrics help recruiters visualize your activity and technology focus.
 
 ## 🏆 Trophies & badges
 To further highlight engagement and your reputation in security, you can integrate some additional widgets:
 
-- **GitHub Trophies:** displays medals for the number of commits, issues and open contributions. Insert the code below, replacing `YOUR_GITHUB_USERNAME`:
+- **GitHub Trophies:** displays medals for the number of commits, issues and open contributions. Example:  
+  `![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat)`
 
-  ```markdown
-  ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat)
+- **GitHub Streak Stats:** shows the sequence of days you have contributed, demonstrating consistency. Example:  
+  `![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default)`
+
+- **TryHackMe Badge:** if available, embed your TryHackMe score/rank badge to showcase your practical skills. Example:  
+  `![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png)`
+
+These visual elements make the profile more dynamic and easier to read for recruiters and the technical community.
+
+## 🌐 Where to find me
+| Platform | Profile |
+| --- | --- |
+| **LinkedIn** | [André Bonfim](https://www.linkedin.com/in/andr%C3%A9-bonfim) |
+| **Coursera** | [Coursera Profile](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059) |
+| **TryHackMe** | [a.bonfim.tech](https://tryhackme.com/p/a.bonfim.tech) |
+| **Google Skills Boost** | [Google Skills Activity](https://www.skills.google/profile/activity) |
+| **GitHub** | [a‑bonfim‑tech](https://github.com/a-bonfim-tech) |
+
+## 📫 Contact
+Feel free to reach out:
+
+- **Email:** a.bonfim.tech@cloud-comunity.de
+
+## 📚 Interests & next steps
+I am diving deep into:
+
+- **Zero Trust architectures** focusing on segmentation, identity and context.  
+- **Multicloud resilience:** aligning GCP and AWS for high availability and compliance.  
+- **Automation & IaC:** security pipelines with Terraform and GitHub Actions.  
+- **Safe GenAI research:** exploring how RAG and governance policies can coexist on cloud platforms.
+
+Feel free to contact me for **collaboration**, **mentoring** or **opportunities**. I am open to contributing to technical communities and sharing knowledge.
+
+<p align="center">
+  <em>"Architecture doesn't start with the diagram; it starts with good questions."</em>
+</p>
