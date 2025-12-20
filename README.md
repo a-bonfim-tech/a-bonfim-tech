@@ -77,4 +77,4 @@ These widgets are optional. They show additional metrics about your GitHub activ
 - **GitHub Trophies:** 
 
   ```markdown
-  ![trophy](https://github-profile-trophy.vercel.app/?username=a-bonfim.tech&theme=flat)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=a-bonfim-tech&theme=flat)
