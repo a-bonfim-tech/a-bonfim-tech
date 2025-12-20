@@ -67,7 +67,9 @@ These certifications consolidate my ongoing training in cloud security and AI go
 ## 📊 Contribution statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech&layout=compact)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=a-bonfim-tech&theme=default)
+
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.bonfim.tech.png)
 
 ## 🏆 Trophies & badges
