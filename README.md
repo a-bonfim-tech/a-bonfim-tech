@@ -7,8 +7,12 @@
 <!-- Custom banner -->
 <p align="center">
   <img src="assets/banner.png" alt="Cloud Security Banner"/>
-  ![Cloud Badge](assets/badge-_ai_governance.png)
-  ![Cloud Badge](assets/badge_cloud_security.png)
+</p>
+
+<!-- Badges (opcionais) -->
+<p align="center">
+  ![Cloud Security Badge](assets/badge_cloud_security.png)
+  ![AI Governance Badge](assets/badge_ai_governance.png)
 </p>
 
 # André Luiz Vieira Bonfim — Cloud Security Architect in the making
