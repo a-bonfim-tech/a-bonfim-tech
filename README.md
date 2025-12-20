@@ -6,7 +6,7 @@
 
 <!-- Custom banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner André Bonfim"/>
+  <img src="assets/banner.png" alt="Cloud Security Banner"/>
 </p>
 
 # André Luiz Vieira Bonfim — Cloud Security Architect in the making
@@ -33,23 +33,23 @@ These certifications consolidate my ongoing training in cloud security and AI go
 
 | Title | Institution / Date | Verification |
 | --- | --- | --- |
-| **Segurança de redes VPC com Cloud Next Generation Firewall** | Google Cloud & Coursera, 12 dec 2025 | [UGKLS3H9DK46](https://coursera.org/verify/UGKLS3H9DK46) |
-| **Evaluate Your Cloud NGFW Needs** | Google Cloud & Coursera, 11 dec 2025 | [8GMV467HD7LB](https://coursera.org/verify/8GMV467HD7LB) |
-| **Introduction to Cloud NGFW** | Google Cloud & Coursera, 11 dec 2025 | [TOG0TR47KXO4](https://coursera.org/verify/TOG0TR47KXO4) |
-| **Cloud Architecture Design Patterns** | Coursera/Starweaver, 13 dec 2025 | [MCMC50B4ROHQ](https://coursera.org/verify/MCMC50B4ROHQ) |
-| **Generative AI: Fundamentals, Applications and Challenges** | University of Michigan, 17 dec 2025 | [N5Q4I4PJAAPC](https://coursera.org/verify/N5Q4I4PJAAPC) |
-| **Generative AI: Governance, Policy and Emerging Regulation** | University of Michigan, 11 dec 2025 | [VIINXO50FH4T](https://coursera.org/verify/VIINXO50FH4T) |
-| **Play It Safe: Manage Security Risks** | Google & Coursera, 13 oct 2025 | [P4D56PWZPOY4](https://coursera.org/verify/P4D56PWZPOY4) |
-| **Security in Google Cloud (Specialization – 4 cursos)** | Google Cloud, 27 aug 2025 | [specialization/05EFDDMIY2GG](https://coursera.org/verify/specialization/05EFDDMIY2GG) |
-| **Networking in Google Cloud: Hybrid and Multicloud** | Google Cloud, 14 jul 2025 | [7MU9KC5ELUNM](https://coursera.org/verify/7MU9KC5ELUNM) |
-| **Managing Security in Google Cloud** | Google Cloud, 18 aug 2025 | [09LO5H5FIA3Q](https://coursera.org/verify/09LO5H5FIA3Q) |
-| **Networking in Google Cloud: Load Balancing** | Google Cloud, 17 jun 2025 | [9QW5NE2RT3GV](https://coursera.org/verify/9QW5NE2RT3GV) |
-| **Foundations of Cybersecurity** | Google (Professional Certificates), 28 jul 2025 | [AQMGQA2744Y2](https://coursera.org/verify/AQMGQA2744Y2) |
-| **Wireshark for Beginners: Capture Packets** (Project) | Coursera Project Network, 06 aug 2025 | [NXBAZNX7RF9H](https://coursera.org/verify/NXBAZNX7RF9H) |
-| **Networking in Google Cloud: Network Security** | Google Cloud, 10 jun 2025 | [OF0I0IHYT2HQ](https://coursera.org/verify/OF0I0IHYT2HQ) |
-| **Kubernetes in AWS: Create Cluster in EKS in your own VPC** (Project) | Coursera Project Network, 15 aug 2025 | [RWQ3PTYIV99Y](https://coursera.org/verify/RWQ3PTYIV99Y) |
-| **Mitigating Security Vulnerabilities on Google Cloud** | Google Cloud, 27 aug 2025 | [U811FEOPENC8](https://coursera.org/verify/U811FEOPENC8) |
-| **Google Cloud Fundamentals: Core Infrastructure** | Google Cloud, 22 jun 2025 | [VWX50B489U5D](https://coursera.org/verify/VWX50B489U5D) |
+| **Segurança de redes VPC com Cloud Next Generation Firewall** | Google Cloud & Coursera, 12 Dec 2025 | [UGKLS3H9DK46](https://coursera.org/verify/UGKLS3H9DK46) |
+| **Evaluate Your Cloud NGFW Needs** | Google Cloud & Coursera, 11 Dec 2025 | [8GMV467HD7LB](https://coursera.org/verify/8GMV467HD7LB) |
+| **Introduction to Cloud NGFW** | Google Cloud & Coursera, 11 Dec 2025 | [TOG0TR47KXO4](https://coursera.org/verify/TOG0TR47KXO4) |
+| **Cloud Architecture Design Patterns** | Coursera/Starweaver, 13 Dec 2025 | [MCMC50B4ROHQ](https://coursera.org/verify/MCMC50B4ROHQ) |
+| **Generative AI: Fundamentals, Applications and Challenges** | University of Michigan, 17 Dec 2025 | [N5Q4I4PJAAPC](https://coursera.org/verify/N5Q4I4PJAAPC) |
+| **Generative AI: Governance, Policy and Emerging Regulation** | University of Michigan, 11 Dec 2025 | [VIINXO50FH4T](https://coursera.org/verify/VIINXO50FH4T) |
+| **Play It Safe: Manage Security Risks** | Google & Coursera, 13 Oct 2025 | [P4D56PWZPOY4](https://coursera.org/verify/P4D56PWZPOY4) |
+| **Security in Google Cloud (Specialization – 4 courses)** | Google Cloud, 27 Aug 2025 | [specialization/05EFDDMIY2GG](https://coursera.org/verify/specialization/05EFDDMIY2GG) |
+| **Networking in Google Cloud: Hybrid and Multicloud** | Google Cloud, 14 Jul 2025 | [7MU9KC5ELUNM](https://coursera.org/verify/7MU9KC5ELUNM) |
+| **Managing Security in Google Cloud** | Google Cloud, 18 Aug 2025 | [09LO5H5FIA3Q](https://coursera.org/verify/09LO5H5FIA3Q) |
+| **Networking in Google Cloud: Load Balancing** | Google Cloud, 17 Jun 2025 | [9QW5NE2RT3GV](https://coursera.org/verify/9QW5NE2RT3GV) |
+| **Foundations of Cybersecurity** | Google (Professional Certificates), 28 Jul 2025 | [AQMGQA2744Y2](https://coursera.org/verify/AQMGQA2744Y2) |
+| **Wireshark for Beginners: Capture Packets** (Project) | Coursera Project Network, 06 Aug 2025 | [NXBAZNX7RF9H](https://coursera.org/verify/NXBAZNX7RF9H) |
+| **Networking in Google Cloud: Network Security** | Google Cloud, 10 Jun 2025 | [OF0I0IHYT2HQ](https://coursera.org/verify/OF0I0IHYT2HQ) |
+| **Kubernetes in AWS: Create Cluster in EKS in your own VPC** (Project) | Coursera Project Network, 15 Aug 2025 | [RWQ3PTYIV99Y](https://coursera.org/verify/RWQ3PTYIV99Y) |
+| **Mitigating Security Vulnerabilities on Google Cloud** | Google Cloud, 27 Aug 2025 | [U811FEOPENC8](https://coursera.org/verify/U811FEOPENC8) |
+| **Google Cloud Fundamentals: Core Infrastructure** | Google Cloud, 22 Jun 2025 | [VWX50B489U5D](https://coursera.org/verify/VWX50B489U5D) |
 
 ## 🧠 Education & Background
 - **Continuing education in IT (Cybersecurity specialization):** Masterschool Institute of Technology, Berlin.  
@@ -65,49 +65,14 @@ These certifications consolidate my ongoing training in cloud security and AI go
 *In progress… new projects will be added as studies advance. Each lab includes diagrams, ADRs and reflections on trade‑offs.*
 
 ## 📊 Contribution statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech)
-
-Replace `YOUR_GITHUB_USERNAME` with your username to display real numbers of commits and languages. These metrics help recruiters visualize your activity and technology focus.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=a-bonfim-tech&theme=default)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.bonfim.tech.png)
 
 ## 🏆 Trophies & badges
-To further highlight engagement and your reputation in security, you can integrate some additional widgets:
+These widgets are optional. They show additional metrics about your GitHub activity:
+- **GitHub Trophies:** 
 
-- **GitHub Trophies:** displays medals for the number of commits, issues and open contributions. Example:  
-  `![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat)`
-
-- **GitHub Streak Stats:** shows the sequence of days you have contributed, demonstrating consistency. Example:  
-  `![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default)`
-
-- **TryHackMe Badge:** if available, embed your TryHackMe score/rank badge to showcase your practical skills. Example:  
-  `![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png)`
-
-These visual elements make the profile more dynamic and easier to read for recruiters and the technical community.
-
-## 🌐 Where to find me
-| Platform | Profile |
-| --- | --- |
-| **LinkedIn** | [André Bonfim](https://www.linkedin.com/in/andr%C3%A9-bonfim) |
-| **Coursera** | [Coursera Profile](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059) |
-| **TryHackMe** | [a.bonfim.tech](https://tryhackme.com/p/a.bonfim.tech) |
-| **Google Skills Boost** | [Google Skills Activity](https://www.skills.google/profile/activity) |
-| **GitHub** | [a‑bonfim‑tech](https://github.com/a-bonfim-tech) |
-
-## 📫 Contact
-Feel free to reach out:
-
-- **Email:** a.bonfim.tech@cloud-comunity.de
-
-## 📚 Interests & next steps
-I am diving deep into:
-
-- **Zero Trust architectures** focusing on segmentation, identity and context.  
-- **Multicloud resilience:** aligning GCP and AWS for high availability and compliance.  
-- **Automation & IaC:** security pipelines with Terraform and GitHub Actions.  
-- **Safe GenAI research:** exploring how RAG and governance policies can coexist on cloud platforms.
-
-Feel free to contact me for **collaboration**, **mentoring** or **opportunities**. I am open to contributing to technical communities and sharing knowledge.
-
-<p align="center">
-  <em>"Architecture doesn't start with the diagram; it starts with good questions."</em>
-</p>
+  ```markdown
+  ![trophy](https://github-profile-trophy.vercel.app/?username=a-bonfim.tech&theme=flat)
