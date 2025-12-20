@@ -71,16 +71,29 @@ These certifications consolidate my ongoing training in cloud security and AI go
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.bonfim.tech.png)
 
+## 🌐 Where to find me
+
+| Platform | Profile |
+| --- | --- |
+| **LinkedIn** | [André Bonfim](https://www.linkedin.com/in/andr%C3%A9-bonfim) |
+| **Coursera** | [Coursera Profile](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059) |
+| **TryHackMe** | [a.bonfim.tech](https://tryhackme.com/p/a.bonfim.tech) |
+| **Google Skills Boost** | [Google Skills Activity](https://www.skills.google/profile/activity) |
+| **GitHub** | [a‑bonfim‑tech](https://github.com/a-bonfim-tech) |
+
+## 📚 Interests & next steps
+
+I am diving deep into:
+
+- **Zero Trust architectures** focusing on segmentation, identity and context.
+- **Multicloud resilience:** aligning GCP and AWS for high availability and compliance.
+- **Automation & IaC:** security pipelines with Terraform and GitHub Actions.
+- **Safe GenAI research:** exploring how RAG and governance policies can coexist on cloud platforms.
+
+Feel free to contact me for **collaboration**, **mentoring** or **opportunities**. I am open to contributing to technical communities and sharing knowledge.
+
 ## 🏆 Trophies & badges
 To further highlight engagement and your reputation in security, you can integrate some additional widgets:
 
-- **GitHub Trophies:** displays medals for the number of commits, issues and open contributions. 
-
-  ```markdown
-  ![trophy](https://github-profile-trophy.vercel.app/?username=a-bonfim-teach&theme=flat)
-
-📫 Contact
-
-Feel free to reach out:
-	•	Email: a.bonfim.tech@cloud-comunity.de
-  •	Telegram: @abonfimtech
+```markdown
+![trophy](https://github-profile-trophy.vercel.app/?username=a-bonfim-tech&theme=flat)
