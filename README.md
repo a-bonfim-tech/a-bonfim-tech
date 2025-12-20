@@ -9,12 +9,6 @@
   <img src="assets/banner.png" alt="Cloud Security Banner"/>
 </p>
 
-<!-- Badges (opcionais) -->
-<p align="center">
-  ![Cloud Security Badge](assets/badge_cloud_security.png)
-  ![AI Governance Badge](assets/badge_ai_governance.png)
-</p>
-
 # André Luiz Vieira Bonfim — Cloud Security Architect in the making
 I am a professional transitioning into **Cloud Security Architecture** with a strong foundation in linguistics, critical thinking and security engineering.  
 Currently I am pursuing **Cybersecurity** at Masterschool in Berlin, focusing on the **Google Cloud Platform** with a **multicloud** view (AWS + Kubernetes). My mission is to design secure architectures, govern identities and integrate AI practices ethically and responsibly.
@@ -72,9 +66,9 @@ These certifications consolidate my ongoing training in cloud security and AI go
 
 ## 📊 Contribution statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech&show_icons=true&theme=default)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech&show_icons=true&theme=default)
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.bonfim.tech.png)
 
 ## 🏆 Trophies & badges
@@ -83,4 +77,10 @@ These widgets are optional. They show additional metrics about your GitHub activ
 
   ```markdown
   ![GitHub Streak](https://streak-stats.demolab.com?user=a-bonfim-tech&theme=default)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=a-bonfim-tech&theme=flat)
+
+
+📫 Contact
+
+Feel free to reach out:
+	•	Email: a.bonfim.tech@cloud-comunity.de
+  •	Telegram: @abonfimtech
