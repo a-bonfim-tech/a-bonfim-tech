@@ -72,12 +72,12 @@ These certifications consolidate my ongoing training in cloud security and AI go
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.bonfim.tech.png)
 
 ## 🏆 Trophies & badges
-These widgets are optional. They show additional metrics about your GitHub activity:
-- **GitHub Trophies:** 
+To further highlight engagement and your reputation in security, you can integrate some additional widgets:
+
+- **GitHub Trophies:** displays medals for the number of commits, issues and open contributions. 
 
   ```markdown
-  ![GitHub Streak](https://streak-stats.demolab.com?user=a-bonfim-tech&theme=default)
-
+  ![trophy](https://github-profile-trophy.vercel.app/?username=a-bonfim-teach&theme=flat)
 
 📫 Contact
 
