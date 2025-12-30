@@ -64,6 +64,11 @@ These certifications consolidate my ongoing training in cloud security and AI go
 
 *In progress… new projects will be added as studies advance. Each lab includes diagrams, ADRs and reflections on trade‑offs.*
 
+## Publications
+
+- Web3 Wallet & Identity — Threat Model (Operator Perspective)  
+  /docs/wallet-identity-threat-model.md
+
 ## 📊 Contribution statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech&show_icons=true&theme=default)  
 
