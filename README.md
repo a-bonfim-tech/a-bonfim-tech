@@ -9,7 +9,7 @@
   <img src="assets/banner.png" alt="Cloud Security Banner"/>
 </p>
 
-![Certificates 2026](https://img.shields.io/endpoint?url=https://a-bonfim-tech.github.io/Cyber-Portfolio/badges/certificates-2026.json)
+[![Certificates 2026](https://img.shields.io/endpoint?url=https%3A%2F%2Fa-bonfim-tech.github.io%2FCyber-Portfolio%2Fbadges%2Fcertificates-2026.json)](CERTIFICATES/2026/CERTIFICATE_REGISTRY.md)
 
 # André Luiz Vieira Bonfim — Cloud Security Architect in the making
 I am a professional transitioning into **Cloud Security Architecture** with a strong foundation in linguistics, critical thinking and security engineering.  
