@@ -9,6 +9,8 @@
   <img src="assets/banner.png" alt="Cloud Security Banner"/>
 </p>
 
+![Certificates 2026](https://img.shields.io/endpoint?url=https://a-bonfim-tech.github.io/Cyber-Portfolio/badges/certificates-2026.json)
+
 # André Luiz Vieira Bonfim — Cloud Security Architect in the making
 I am a professional transitioning into **Cloud Security Architecture** with a strong foundation in linguistics, critical thinking and security engineering.  
 Currently I am pursuing **Cybersecurity** at Masterschool in Berlin, focusing on the **Google Cloud Platform** with a **multicloud** view (AWS + Kubernetes). My mission is to design secure architectures, govern identities and integrate AI practices ethically and responsibly.
