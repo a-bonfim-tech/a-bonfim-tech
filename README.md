@@ -36,7 +36,7 @@ Each entry is backed by **auditable evidence (PDF, SHA256, metadata, CI validati
 
 | Title | Institution / Date | Verification |
 | --- | --- | --- |
-| **Google Cybersecurity (Professional Certificate)** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Google-Cybersecurity) |
+| **Google Cybersecurity (Professional Certificate)** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/8a9cc2403256e7c74f432730b5602cd3) |
 | **Assets, Threats, and Vulnerabilities** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Assets-Threats-and-Vulnerabilities) |
 | **Automate Cybersecurity Tasks with Python** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Automate-Cybersecurity-Tasks-with-Python) |
 | **Tools of the Trade: Linux and SQL** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Tools-of-the-Trade-Linux-and-SQL) |
