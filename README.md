@@ -36,6 +36,7 @@ Each entry is backed by **auditable evidence (PDF, SHA256, metadata, CI validati
 
 | Title | Institution / Date | Verification |
 | --- | --- | --- |
+| **TryHackMe — Complete Beginner Path** | TryHackMe, 2026 | [Certificate (PDF)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EW4BPXA2CN.pdf) |
 | **Google Cybersecurity (Professional Certificate)** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/8a9cc2403256e7c74f432730b5602cd3) |
 | **Assets, Threats, and Vulnerabilities** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/a9f26ff53959a0e52dd968a03d16fb7a) |
 | **Automate Cybersecurity Tasks with Python** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/0c56814dc11f8ff9c1f5f49a292de9bd) |
