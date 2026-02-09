@@ -63,6 +63,17 @@ Each entry is backed by **auditable evidence (PDF, SHA256, metadata, CI validati
 | **Mitigating Security Vulnerabilities on Google Cloud** | Google Cloud, 27 Aug 2025 | [U811FEOPENC8](https://coursera.org/verify/U811FEOPENC8) |
 | **Google Cloud Fundamentals: Core Infrastructure** | Google Cloud, 22 Jun 2025 | [VWX50B489U5D](https://coursera.org/verify/VWX50B489U5D) |
 
+### 🧪 TryHackMe — Hands-on Cybersecurity Labs
+
+Practical, scenario-based certifications focused on offensive and defensive security, validated through hands-on labs and real-world simulations.
+
+| Title                                          | Platform  | Verification                                                                        |
+| ---------------------------------------------- | --------- | ----------------------------------------------------------------------------------- |
+| **TryHackMe — Jr Penetration Tester Path**     | TryHackMe | [PDF](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EW4BPXA2CN.pdf) |
+| **TryHackMe — Cyber Defense / Blue Team Labs** | TryHackMe | [PDF](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9NEEMC3PEJ.pdf) |
+
+> These certificates complement my cloud-security path with **hands-on attack & defense practice**, including enumeration, privilege escalation, log analysis and incident response workflows.
+
 ## 🧠 Education & Background
 - **Continuing education in IT (Cybersecurity specialization):** Masterschool Institute of Technology, Berlin.  
 - **Bachelor’s degree in Portuguese Language & Literature:** Universidade Tiradentes, Brazil.  
