@@ -37,14 +37,14 @@ Each entry is backed by **auditable evidence (PDF, SHA256, metadata, CI validati
 | Title | Institution / Date | Verification |
 | --- | --- | --- |
 | **Google Cybersecurity (Professional Certificate)** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/8a9cc2403256e7c74f432730b5602cd3) |
-| **Assets, Threats, and Vulnerabilities** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Assets-Threats-and-Vulnerabilities) |
-| **Automate Cybersecurity Tasks with Python** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Automate-Cybersecurity-Tasks-with-Python) |
-| **Tools of the Trade: Linux and SQL** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Tools-of-the-Trade-Linux-and-SQL) |
-| **Sound the Alarm: Detection and Response** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Sound-the-Alarm-Detection-and-Response) |
-| **Put It to Work: Prepare for Cybersecurity Jobs** | Google & Coursera, 2026 | [Repository evidence](CERTIFICATES/2026/Coursera/Put-It-to-Work-Prepare-for-Cybersecurity-Jobs) |
-| **Trust and Security with Google Cloud** | Google Cloud, 2026 | [Repository evidence](CERTIFICATES/2026/Google-Cloud/Trust-and-Security-with-Google-Cloud) |
-| **Scaling with Google Cloud Operations** | Google Cloud, 2026 | [Repository evidence](CERTIFICATES/2026/Google-Cloud/Scaling-with-Google-Cloud-Operations) |
-| **Google Cloud Platform (GCP) Operations for SaaS** | Google Cloud, 2026 | [Repository evidence](CERTIFICATES/2026/Google-Cloud/GCP-Operations-for-SaaS) |
+| **Assets, Threats, and Vulnerabilities** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/a9f26ff53959a0e52dd968a03d16fb7a) |
+| **Automate Cybersecurity Tasks with Python** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/0c56814dc11f8ff9c1f5f49a292de9bd) |
+| **Tools of the Trade: Linux and SQL** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/53169c27568c8d1800531804521875f4) |
+| **Sound the Alarm: Detection and Response** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/35b46b9b3b4606faf031c59f9c2d8e0d) |
+| **Put It to Work: Prepare for Cybersecurity Jobs** | Google & Coursera, 2026 | [Repository evidence](https://coursera.org/share/ed5b3f4f064c7326fe187c07759e85ee) |
+| **Trust and Security with Google Cloud** | Google Cloud, 2026 | [Repository evidence](https://coursera.org/share/20a8aec61a9ac49103e15585ff641a7c) |
+| **Scaling with Google Cloud Operations** | Google Cloud, 2026 | [Repository evidence](https://coursera.org/share/452eb9398f0d19a5e277325ec09aa5b6) |
+| **Google Cloud Platform (GCP) Operations for SaaS** | Google Cloud, 2026 | [Repository evidence](https://coursera.org/share/6e5652f263b8366d464730d001b7c81b) |
 | **Segurança de redes VPC com Cloud Next Generation Firewall** | Google Cloud & Coursera, 12 Dec 2025 | [UGKLS3H9DK46](https://coursera.org/verify/UGKLS3H9DK46) |
 | **Evaluate Your Cloud NGFW Needs** | Google Cloud & Coursera, 11 Dec 2025 | [8GMV467HD7LB](https://coursera.org/verify/8GMV467HD7LB) |
 | **Introduction to Cloud NGFW** | Google Cloud & Coursera, 11 Dec 2025 | [TOG0TR47KXO4](https://coursera.org/verify/TOG0TR47KXO4) |
