@@ -89,3 +89,9 @@ repository and related portfolio projects.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech&layout=compact)
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.bonfim.tech.png)
+
+## License and Security
+
+This profile repository is licensed under the MIT License. Security concerns,
+scope limitations, and safe reporting expectations are documented in
+[SECURITY.md](SECURITY.md).
