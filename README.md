@@ -34,6 +34,9 @@ real audit or incident pressure?
 | [GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases) | Google Cloud security cases covering Cloud Armor, NGFW, BeyondCorp, KMS, logging, monitoring, and evidence-based review. |
 | [DevSecOps Baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) | GitHub Actions baseline with SBOM generation, vulnerability scanning, secrets detection, and OPA policy-as-code gates. |
 
+For a role-based map of the portfolio, see
+[PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
+
 ## Evidence I Care About
 
 - Clear scope: authorized labs, sanitized examples, and no live third-party targets.
