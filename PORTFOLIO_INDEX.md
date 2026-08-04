@@ -1,50 +1,98 @@
 # Cybersecurity Portfolio Index
 
-This index maps portfolio repositories to recruiter-facing security signals,
-technical evidence, and the roles each project best supports.
+A recruiter-facing map of the public portfolio, organized by demonstrated evidence rather than by course completion or broad skill claims.
 
-## Objective
+## Professional Positioning
 
-Provide a fast, audit-friendly route through the public GitHub portfolio for
-recruiters, mentors, reviewers, and cybersecurity hiring teams.
+**Junior Cybersecurity Analyst — Cloud Security, IAM, Security Governance and SOC-related analysis**
 
-## Priority Projects
+The portfolio is designed to show four evidence categories:
 
-| Repository | Primary signal | Evidence type | Best fit |
-| --- | --- | --- | --- |
-| [thm-guided-pentest-web](https://github.com/a-bonfim-tech/thm-guided-pentest-web) | Authorized web application penetration testing | Scope, methodology, evidence structure, vulnerability chain analysis | Web security, penetration testing, vulnerability assessment |
-| [ai-devsecops-baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) | Automated DevSecOps security gates | GitHub Actions, SBOM, vulnerability scanning, secrets detection, OPA policy-as-code | DevSecOps, security automation, cloud security engineering |
-| [gcp-security-study-cases](https://github.com/a-bonfim-tech/gcp-security-study-cases) | Google Cloud security study cases | Cloud Armor, NGFW, BeyondCorp, KMS, logging and monitoring notes | Cloud security, GCP, security architecture |
-| [tshark-teamwork-soc-case-study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) | Network forensics and SOC analysis | TShark investigation, IOC extraction, HTTP analysis, threat correlation | SOC, blue team, incident analysis |
-| [cloud-risk-decision-framework](https://github.com/a-bonfim-tech/cloud-risk-decision-framework) | Risk-based cloud security decisions | Decision options, trade-off analysis, audit-ready reasoning | GRC, cloud risk, architecture review |
-| [human-siem-cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity) | Governance-driven security operations model | SIEM/SOC governance, validation and leadership review framing | SOC governance, GRC, security leadership |
+1. **Cloud controls** — IAM, network security, encryption, logging and policy decisions.
+2. **Security operations** — traffic analysis, IOC extraction, investigation and incident reasoning.
+3. **Secure engineering** — CI security gates, SBOM, scanning and policy-as-code.
+4. **Governance and assurance** — control assessment, technical evidence, risk decisions and audit-ready documentation.
 
-## Role Mapping
+## Recruiter Fast Path
 
-| Role direction | Repositories to inspect first | Why |
-| --- | --- | --- |
-| Cloud Security | `gcp-security-study-cases`, `cloud-risk-decision-framework`, `ai-devsecops-baseline` | Shows cloud controls, decision quality, and security automation. |
-| SOC / Blue Team | `tshark-teamwork-soc-case-study`, `human-siem-cybersecurity` | Shows investigation workflow, evidence handling, and operational reasoning. |
-| DevSecOps | `ai-devsecops-baseline`, `kali-devsecops-baseline` | Shows automated security gates and repeatable tooling. |
-| GRC / Governance | `cloud-risk-decision-framework`, `human-siem-cybersecurity`, `bonfim-security-constitution` | Shows decision records, auditability, and compliance-safe documentation. |
-| Web Security | `thm-guided-pentest-web` | Shows authorized lab scope, OWASP/PTES-inspired methodology, and vulnerability chaining. |
-| Responsible AI Governance | `ai-governance-inference-privacy-case-study` | Shows privacy, inference behavior, and risk communication framing. |
+For a ten-minute review, inspect these projects in order:
+
+| Order | Repository | What to verify |
+| ---: | --- | --- |
+| 1 | [GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases) | Cloud Armor, Cloud NGFW, BeyondCorp, KMS, logging, monitoring and evidence-based cloud review. |
+| 2 | [TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) | PCAP investigation, phishing identification, HTTP analysis, IOC extraction and threat-intelligence correlation. |
+| 3 | [DevSecOps Baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) | GitHub Actions, SBOM generation, vulnerability scanning, secrets detection and OPA policy-as-code. |
+| 4 | [Guided Web Pentest](https://github.com/a-bonfim-tech/thm-guided-pentest-web) | Authorized scope, reconnaissance, IDOR, weak reset logic, RCE, vulnerability chaining and reporting. |
+| 5 | [Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity) | Synthetic security-decision documentation, governance controls and audit-oriented reasoning. |
+| 6 | [Cloud Risk Decision Framework](https://github.com/a-bonfim-tech/cloud-risk-decision-framework) | Cloud-risk options, trade-offs, decision records and limitation-aware recommendations. |
+
+## Role-Based Reading Paths
+
+### Cloud Security and IAM
+
+1. `gcp-security-study-cases`
+2. `ai-devsecops-baseline`
+3. `cloud-risk-decision-framework`
+
+Signals: cloud-control knowledge, identity-first security, network exposure review, logging, encryption and defensible risk decisions.
+
+### SOC and Blue Team
+
+1. `tshark-teamwork-soc-case-study`
+2. `human-siem-cybersecurity`
+3. `ai-devsecops-baseline`
+
+Signals: evidence handling, packet and log analysis, IOC development, investigation structure and operational documentation.
+
+### Security Governance and GRC
+
+1. `cloud-risk-decision-framework`
+2. `human-siem-cybersecurity`
+3. `gcp-security-study-cases`
+
+Signals: control assessment, risk communication, traceability, audit-ready documentation and explicit limitations.
+
+### DevSecOps and Security Automation
+
+1. `ai-devsecops-baseline`
+2. `gcp-security-study-cases`
+3. `thm-guided-pentest-web`
+
+Signals: repeatable checks, workflow security, scanning, policy gates and technically grounded remediation.
+
+### Web Security
+
+1. `thm-guided-pentest-web`
+2. `tshark-teamwork-soc-case-study`
+
+Signals: authorized testing, vulnerability chaining, traffic evidence and professional reporting.
 
 ## Evidence Standard
 
-Portfolio projects should prefer:
+A project qualifies for recruiter priority only when it clearly states:
 
-- Clear authorization and scope.
-- Sanitized evidence.
-- Repeatable methodology.
-- Explicit risk reasoning.
-- Framework alignment where useful.
-- No active credentials, flags, tokens, or live third-party targets.
+- the problem and authorized scope;
+- the author's contribution;
+- tools, methodology and assumptions;
+- reproducible execution or validation steps;
+- sanitized evidence;
+- findings and risk interpretation;
+- remediation, decision or conclusion;
+- limitations and unresolved work;
+- separation between original work and third-party material.
 
-## Current Improvement Priorities
+## Publication Rules
 
-1. Keep the six priority projects pinned on the GitHub profile.
-2. Add or maintain explicit licenses and security policies in anchor repositories.
-3. Add validation notes and diagrams to cloud/security architecture projects.
-4. Keep workflow badges only where the underlying workflow is stable.
-5. Separate original work from forks, references, and third-party learning material.
+- No credentials, tokens, private keys, internal identifiers or production evidence.
+- No employer-owned material without explicit publication authorization.
+- No unsupported claims of compliance, certification, seniority or production readiness.
+- Private canonical projects require a separate, sanitised public portfolio edition.
+- Forks do not receive recruiter priority unless the contribution is substantial and documented.
+
+## Current Portfolio Roadmap
+
+1. Prepare a sanitized public portfolio edition based on security-control assessment experience.
+2. Harden and publish the strongest private security-automation project after security review.
+3. Complete the GCP Cloud Security Lab with reproducible, sanitized evidence.
+4. Standardize README structure, security policies, licenses, CI and recruiter reading paths across anchor repositories.
+5. Replace provisional pins only after the new projects pass publication and evidence gates.
