@@ -1,100 +1,103 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Cloud Security Banner"/>
+  <img src="assets/banner.png" alt="André Bonfim — Cybersecurity, Cloud Security, IAM and Governance" />
 </p>
 
-# André Luiz Vieira Bonfim
+<h1 align="center">André Luiz Vieira Bonfim</h1>
 
-Cloud Security and Cybersecurity professional in training in Germany, focused on
-GCP, IAM, Zero Trust, DevSecOps, SOC workflows, GRC, and responsible AI
-governance.
+<p align="center">
+  <strong>Junior Cybersecurity Analyst · Cloud Security · IAM · Security Governance</strong><br/>
+  Berlin, Germany
+</p>
 
-I am building a recruiter-ready cybersecurity portfolio around one question:
-how can security decisions be made, implemented, documented, and defended under
-real audit or incident pressure?
+<p align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-bonfim">LinkedIn</a> ·
+  <a href="https://tryhackme.com/p/a.bonfim.tech">TryHackMe</a> ·
+  <a href="https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059">Coursera</a>
+</p>
 
-## Current Positioning
+## Professional Profile
 
-| Area | Focus |
+Cybersecurity professional based in Berlin with a completed 2,720-hour Cybersecurity Bootcamp specialized in Security Operations Center Analysis and practical internship experience assessing cloud security controls.
+
+During a 320-hour internship at Panos.AI, I supported evidence-based reviews of TLS 1.3, HTTPS/HSTS, Azure Storage encryption, IAM, privileged access, logging, monitoring, backup and recovery controls in the context of GDPR and ISO/IEC 27001-oriented compliance work.
+
+My portfolio focuses on a clear principle: security claims should be supported by reproducible technical evidence, explicit scope, documented limitations and human-reviewed decisions.
+
+## Core Focus
+
+| Domain | Current focus |
 | --- | --- |
-| Target role | Cloud Security, Security Architecture, GRC, SOC / Blue Team, DevSecOps |
-| Primary cloud | Google Cloud Platform |
-| Security themes | IAM, Zero Trust, network security, logging, risk decisions, auditability |
-| Practical labs | TryHackMe, TShark, Kali Linux, GCP security labs |
-| Governance themes | Decision records, evidence handling, compliance-safe documentation |
-| AI security | Responsible AI, RAG risk, inference/privacy concerns, human validation |
+| Cloud Security | Azure and Google Cloud security controls, IAM, network exposure, encryption, logging and monitoring |
+| Identity & Access | MFA, privileged access, least privilege, RBAC/ABAC and Zero Trust concepts |
+| Security Operations | Network traffic analysis, IOC extraction, log analysis and incident-response fundamentals |
+| Security Governance | Control assessment, evidence management, audit readiness, risk communication and technical documentation |
+| DevSecOps | GitHub Actions, CodeQL, SBOM, vulnerability scanning, secrets detection and policy-as-code |
 
-## Portfolio Projects
+## Featured Portfolio
 
-| Project | What it demonstrates |
+| Project | Evidence demonstrated |
 | --- | --- |
-| [TryHackMe Guided Web Pentest](https://github.com/a-bonfim-tech/thm-guided-pentest-web) | Authorized web application pentest workflow with OWASP/PTES methodology, evidence handling, vulnerability chain analysis, and professional reporting. |
-| [Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity) | Governance-driven cybersecurity operating model for SOC, SIEM, risk decisions, audit readiness, and security leadership review. |
-| [Cloud Risk Decision Framework](https://github.com/a-bonfim-tech/cloud-risk-decision-framework) | Audit-ready cloud risk reasoning, decision options, trade-offs, and architecture review documentation. |
-| [TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) | Network forensics investigation using TShark: phishing detection, IOC extraction, HTTP POST analysis, and threat intelligence correlation. |
-| [GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases) | Google Cloud security cases covering Cloud Armor, NGFW, BeyondCorp, KMS, logging, monitoring, and evidence-based review. |
-| [DevSecOps Baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) | GitHub Actions baseline with SBOM generation, vulnerability scanning, secrets detection, and OPA policy-as-code gates. |
+| [GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases) | Five evidence-based cloud security cases covering Cloud Armor, Cloud NGFW, BeyondCorp, CMEK/KMS, Cloud Logging, Monitoring and VPC Flow Logs |
+| [TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) | PCAP analysis, phishing detection, HTTP POST inspection, IOC extraction and threat-intelligence correlation |
+| [DevSecOps Baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) | GitHub Actions security gates with SBOM generation, vulnerability scanning, secrets detection and OPA policy-as-code |
+| [Guided Web Pentest](https://github.com/a-bonfim-tech/thm-guided-pentest-web) | Authorized web assessment covering reconnaissance, IDOR, weak password-reset logic, administrative access, RCE and vulnerability chaining |
+| [Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity) | Synthetic governance and decision-documentation framework for SOC, audit and risk-review scenarios |
+| [Cloud Risk Decision Framework](https://github.com/a-bonfim-tech/cloud-risk-decision-framework) | Documentation-first cloud risk case studies focused on decisions, trade-offs and audit traceability |
 
-For a role-based map of the portfolio, see
-[PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
+For role-specific navigation, see [PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
 
-## Evidence I Care About
+## Internship Experience
 
-- Clear scope: authorized labs, sanitized examples, and no live third-party targets.
-- Repeatable structure: README, methodology, evidence, findings, and conclusions.
-- Audit readiness: decisions are explicit, versioned, and explainable.
-- Security judgment: trade-offs and risk reasoning matter as much as tools.
-- Human validation: AI-assisted work must remain accountable and reviewable.
+**Cybersecurity Intern — Panos.AI, Berlin**  
+**08 June 2026 – 02 August 2026 · 320 hours**
 
-## Technical Skills
+- Assessed and documented security controls for cloud environments, focusing on encryption, IAM, logging, backup and recovery.
+- Supported GDPR and ISO/IEC 27001-oriented compliance activities through evidence collection and technical control validation.
+- Reviewed TLS 1.3, HTTPS, HSTS and Microsoft Azure Storage encryption configurations.
+- Evaluated MFA, privileged access, audit trails and monitoring controls.
+- Contributed to audit-ready documentation using GitHub, pull requests, GitHub Actions, CodeQL, Linear, Markdown and JSON.
 
-| Domain | Tools and concepts |
-| --- | --- |
-| Google Cloud | VPC, Cloud Armor, Cloud NGFW, Cloud Logging, Cloud Monitoring, KMS, Cloud Run |
-| Identity and access | IAM, RBAC/ABAC, BeyondCorp, Zero Trust, least privilege |
-| DevSecOps | GitHub Actions, SBOM, OPA/Rego, secrets detection, vulnerability scanning |
-| Security operations | TShark, Wireshark, Linux, Kali, log analysis, incident response |
-| Governance | GRC, decision records, audit evidence, risk communication |
-| AI governance | Responsible AI, RAG security, privacy, inference risk, policy documentation |
+## Selected Technical Skills
+
+`Microsoft Azure` · `Google Cloud` · `IAM` · `MFA` · `TLS 1.3` · `HTTPS` · `HSTS` · `GitHub Actions` · `CodeQL` · `TShark` · `Wireshark` · `Nmap` · `Linux` · `Markdown` · `JSON`
+
+## Frameworks and Methods
+
+`GDPR` · `ISO/IEC 27001 fundamentals` · `NIST Cybersecurity Framework 2.0` · `OWASP WSTG` · `OWASP Top 10` · `PTES`
 
 ## Selected Credentials
 
 - Google Cybersecurity Professional Certificate
-- Security in Google Cloud Specialization
-- Google Cloud networking and Cloud NGFW certificates
-- TryHackMe Jr Penetration Tester Path
-- TryHackMe Cyber Defense / Blue Team Labs
-- Generative AI governance and policy coursework
+- Security in Google Cloud coursework and specialization certificates
+- Google Cloud networking and Cloud NGFW training
+- Generative AI: Governance, Policy, and Emerging Regulation — University of Michigan
+- TryHackMe cybersecurity labs and learning paths
 
-Full certificate evidence and verification links are maintained in the profile
-repository and related portfolio projects.
+## Portfolio Evidence Standard
 
-## Background
+Every anchor project should make the following clear:
 
-- Cybersecurity student at Masterschool Institute of Technology, Berlin.
-- Bachelor degree in Portuguese Language and Literature.
-- Languages: Portuguese, German, and English.
-- Professional strength: structured thinking, documentation quality, and
-  security reasoning across technical and governance contexts.
+1. Scope and authorization
+2. My individual contribution
+3. Methodology and tools
+4. Reproducible execution steps
+5. Technical evidence and findings
+6. Risk interpretation and limitations
+7. Security and privacy safeguards
 
-## Links
+## Current Development Priorities
 
-| Platform | Profile |
-| --- | --- |
-| LinkedIn | [André Bonfim](https://www.linkedin.com/in/andr%C3%A9-bonfim) |
-| Coursera | [Coursera profile](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059) |
-| TryHackMe | [a.bonfim.tech](https://tryhackme.com/p/a.bonfim.tech) |
-| GitHub | [a-bonfim-tech](https://github.com/a-bonfim-tech) |
+- Publish a sanitized security-controls evidence portfolio derived from internship competencies without exposing proprietary information.
+- Strengthen cloud IAM and security-control labs with reproducible scripts and sanitized evidence.
+- Expand SOC case studies with detection logic, timelines and mapped response decisions.
+- Maintain a clear separation between verified evidence, assumptions, recommendations and future work.
 
-## GitHub Activity
+## Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-bonfim-tech&show_icons=true&theme=default)
+Portuguese — native · German — professional working proficiency · English — working proficiency
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bonfim-tech&layout=compact)
+## Security and Responsible Disclosure
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.bonfim.tech.png)
+Public repositories use authorized labs, synthetic data or sanitized examples. No active credentials, customer data, internal company identifiers or production secrets should be published.
 
-## License and Security
-
-This profile repository is licensed under the MIT License. Security concerns,
-scope limitations, and safe reporting expectations are documented in
-[SECURITY.md](SECURITY.md).
+Security concerns related to this profile repository can be reported according to [SECURITY.md](SECURITY.md).
