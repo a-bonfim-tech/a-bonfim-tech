@@ -89,6 +89,8 @@ A project qualifies for recruiter priority only when it clearly states:
 - Private canonical projects require a separate, sanitised public portfolio edition.
 - Forks do not receive recruiter priority unless the contribution is substantial and documented.
 
+The full release procedure is defined in [PRIVATE_REPOSITORY_PUBLICATION_GATE.md](PRIVATE_REPOSITORY_PUBLICATION_GATE.md).
+
 ## Current Portfolio Roadmap
 
 1. Prepare a sanitized public portfolio edition based on security-control assessment experience.
