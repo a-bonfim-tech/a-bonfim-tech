@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.png" alt="André Bonfim — Cybersecurity, Cloud Security, IAM, Secure AI and Security Governance" />
+  <img src="assets/banner.png" alt="André Bonfim — Cybersecurity, Secure AI, Cloud Security, IAM, Security Automation and Governance" />
 </p>
 
 <h1 align="center">André Luiz Vieira Bonfim</h1>
 
 <p align="center">
-  <strong>Cybersecurity · Cloud Security · IAM · Secure AI · Security Governance · Security Automation</strong><br/>
-  Berlin, Germany
+  <strong>Cybersecurity · Secure AI · Cloud Security · IAM · Security Automation · Security Governance</strong><br/>
+  Berlin, Germany · Evidence-driven security engineering and human-accountable AI
 </p>
 
 <p align="center">
@@ -17,27 +17,32 @@
 
 ## Professional Profile
 
-Cybersecurity professional based in Berlin focused on Cloud Security, Identity & Access Management (IAM), Security Operations, Secure AI, Security Automation and evidence-driven Security Governance.
+Cybersecurity professional based in Berlin focused on **Secure AI, Cloud Security, Identity & Access Management (IAM), Security Operations, Security Automation and evidence-driven Security Governance**.
 
-My portfolio is built around a consistent engineering principle: **security claims should be supported by reproducible technical evidence, explicit scope, documented limitations, traceable decisions and human accountability.**
+I build security work around a consistent engineering principle: **claims should be supported by reproducible technical evidence, explicit scope, documented limitations, traceable decisions and human accountability.** My portfolio therefore emphasizes not only what a system can do, but also **who is authorized to act, under which boundaries, how the action is verified and what evidence remains afterward**.
 
-My practical work includes secure AI-agent authorization architecture, governed Python SDK engineering, cloud-security evidence cases, security/compliance automation, SOC-oriented network analysis and audit-ready control assessment.
+My practical work includes officer-bound AI-agent authorization architecture, governed Python SDK engineering, cloud-security evidence cases, security/compliance automation, SOC-oriented network analysis and audit-ready control assessment.
 
-## Professional Cybersecurity Training
-
-### ABSCHLUSSZERTIFIKAT — Cybersecurity Bootcamp
+## Professional Cybersecurity Training — Completion Certificate
 
 **MSIT GmbH — Master School Institute of Technology**
 
-- **Cybersecurity Bootcamp**
-- **2720 Unterrichtsstunden · June 3, 2025 – August 3, 2026**
-- **Spezialisiert in Security Operations Center Analysis**
-- **Praktikum (8 Wochen, 320 Stunden)**
-- Credential ID: `43529502854875`
-- Issue Date: `July 28, 2026`
+| Certificate field | Official information |
+| --- | --- |
+| **Course** | **Cybersecurity Bootcamp** |
+| **Duration** | **2,720 instructional hours · June 3, 2025 – August 3, 2026** |
+| **Specialization** | **Security Operations Center Analysis** |
+| **Internship** | **8 weeks · 320 hours** |
+| **Credential ID** | `43529502854875` |
+| **Issue Date** | `July 28, 2026` |
 
-Selected curriculum wording from the certificate:
+The course title **Cybersecurity Bootcamp** and specialization **Security Operations Center Analysis** are preserved exactly as stated on the completion certificate; descriptive German labels from the certificate are rendered here in English for consistency across the profile.
 
+<details>
+<summary><strong>Selected curriculum documented on the certificate</strong></summary>
+
+- IT Support Fundamentals: Hardware, Software, Networking Troubleshooting
+- Operating Systems: Windows & Linux Administration
 - Network Architecture & Security: Firewalls, VPNs and Segmentation
 - Cyber Threats Vulnerabilities & Mitigation Strategies
 - Security Tools: SIEM, EDR, Packet Analysis, Forensics Basics
@@ -51,10 +56,13 @@ Selected curriculum wording from the certificate:
 - Advanced Network Design and Troubleshooting
 - Network Defense and Secure Architecture
 - Solo Project: Secure Network Implementation and Monitoring
+- Internship: 8 weeks, 320 hours
+
+</details>
 
 ## Flagship Portfolio — Recruiter Fast Path
 
-These are the six repositories I recommend reviewing first. They are deliberately ordered to show complementary evidence across Secure AI, software engineering, GRC, cloud security and SOC work.
+These are the six repositories I recommend reviewing first. They are deliberately ordered to demonstrate complementary evidence across **Secure AI, software engineering, GRC, cloud security and SOC work**.
 
 | Priority | Project | Primary hiring signal |
 | ---: | --- | --- |
@@ -67,17 +75,17 @@ These are the six repositories I recommend reviewing first. They are deliberatel
 
 For role-specific navigation and the wider repository classification, see [PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
 
-## Core Focus
+## Recruiter Snapshot — Evidence I Can Show
 
 | Domain | Evidence represented in the portfolio |
 | --- | --- |
-| Secure AI & Agent Security | Human-bound authorization, default-deny execution, agent governance, secure automation and explicit authority boundaries |
-| Cloud Security | Azure and Google Cloud controls, IAM, network exposure, encryption, logging, monitoring and risk decisions |
-| Identity & Access Management | MFA, privileged access, least privilege, RBAC/ABAC, Zero Trust and identity-first security models |
-| Security Operations | Network traffic analysis, IOC extraction, investigation structure, SIEM concepts and incident-response fundamentals |
-| Security Governance / GRC | Control assessment, evidence management, audit readiness, risk communication, GDPR, ISO 27001 and NIST-aligned reasoning |
-| DevSecOps / Supply Chain | GitHub Actions, CodeQL, SAST, SBOM, vulnerability scanning, secret detection, branch protection and provenance |
-| Security Automation | Python, TypeScript, Bash and deterministic evidence/report generation |
+| **Secure AI & Agent Security** | Human-bound authorization, default-deny execution, agent governance, secure automation and explicit authority boundaries |
+| **Cloud Security** | Azure and Google Cloud controls, IAM, network exposure, encryption, logging, monitoring and risk decisions |
+| **Identity & Access Management** | MFA, privileged access, least privilege, RBAC/ABAC, Zero Trust and identity-first security models |
+| **Security Operations** | Network traffic analysis, IOC extraction, investigation structure, SIEM concepts and incident-response fundamentals |
+| **Security Governance / GRC** | Control assessment, evidence management, audit readiness, risk communication, GDPR, ISO 27001 and NIST-aligned reasoning |
+| **DevSecOps / Supply Chain** | GitHub Actions, CodeQL, SAST, SBOM, vulnerability scanning, secret detection, branch protection and provenance |
+| **Security Automation** | Python, TypeScript, Bash and deterministic evidence/report generation |
 
 ## Practical Experience — Panos.AI
 
@@ -100,7 +108,7 @@ For role-specific navigation and the wider repository classification, see [PORTF
 
 ## Selected Credentials and Learning Evidence
 
-- **MSIT — Cybersecurity Bootcamp — 2720 Unterrichtsstunden — Security Operations Center Analysis**
+- **MSIT — Cybersecurity Bootcamp — 2,720 instructional hours — Security Operations Center Analysis**
 - Google Cybersecurity Professional Certificate
 - Security in Google Cloud coursework and specialization certificates
 - Google Cloud networking and Cloud NGFW training
@@ -123,7 +131,7 @@ Every anchor project should make the following clear:
 ## Current Engineering Priorities
 
 1. Preserve the OBDIA `v0.1.x` bounded reference slice as the stable security baseline and evolve a separate `v0.2.x` productionization architecture track.
-2. Elevate Bonfim SDK `v0.2.x` through public-repository and release hardening, followed by a `v0.3.x` isolated-execution architecture track.
+2. Elevate Bonfim SDK through a release-hardening track, followed by a later isolated-execution architecture line.
 3. Harden the AI SaaS Security & Compliance Fit-Gap project as the primary GRC / AI-governance portfolio anchor.
 4. Strengthen GCP cloud-security evidence with reproducible, sanitized IAM and control-validation artifacts.
 5. Expand SOC evidence with detection logic, investigation timelines and mapped response decisions.
