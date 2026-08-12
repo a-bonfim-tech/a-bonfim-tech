@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.png" alt="André Bonfim — Cybersecurity, Cloud Security, IAM and Governance" />
+  <img src="assets/banner.png" alt="André Bonfim — Cybersecurity, Cloud Security, IAM, Secure AI and Security Governance" />
 </p>
 
 <h1 align="center">André Luiz Vieira Bonfim</h1>
 
 <p align="center">
-  <strong>Junior Cybersecurity Analyst · Cloud Security · IAM · Security Governance</strong><br/>
+  <strong>Cybersecurity · Cloud Security · IAM · Secure AI · Security Governance · Security Automation</strong><br/>
   Berlin, Germany
 </p>
 
@@ -17,56 +17,90 @@
 
 ## Professional Profile
 
-Cybersecurity professional based in Berlin with a completed 2,720-hour Cybersecurity Bootcamp specialized in Security Operations Center Analysis and practical internship experience assessing cloud security controls.
+Cybersecurity professional based in Berlin focused on Cloud Security, Identity & Access Management (IAM), Security Operations, Secure AI, Security Automation and evidence-driven Security Governance.
 
-During a 320-hour internship at Panos.AI, I supported evidence-based reviews of TLS 1.3, HTTPS/HSTS, Azure Storage encryption, IAM, privileged access, logging, monitoring, backup and recovery controls in the context of GDPR and ISO/IEC 27001-oriented compliance work.
+My portfolio is built around a consistent engineering principle: **security claims should be supported by reproducible technical evidence, explicit scope, documented limitations, traceable decisions and human accountability.**
 
-My portfolio focuses on a clear principle: security claims should be supported by reproducible technical evidence, explicit scope, documented limitations and human-reviewed decisions.
+My practical work includes secure AI-agent authorization architecture, governed Python SDK engineering, cloud-security evidence cases, security/compliance automation, SOC-oriented network analysis and audit-ready control assessment.
+
+## Professional Cybersecurity Training
+
+### ABSCHLUSSZERTIFIKAT — Cybersecurity Bootcamp
+
+**MSIT GmbH — Master School Institute of Technology**
+
+- **Cybersecurity Bootcamp**
+- **2720 Unterrichtsstunden · June 3, 2025 – August 3, 2026**
+- **Spezialisiert in Security Operations Center Analysis**
+- **Praktikum (8 Wochen, 320 Stunden)**
+- Credential ID: `43529502854875`
+- Issue Date: `July 28, 2026`
+
+Selected curriculum wording from the certificate:
+
+- Network Architecture & Security: Firewalls, VPNs and Segmentation
+- Cyber Threats Vulnerabilities & Mitigation Strategies
+- Security Tools: SIEM, EDR, Packet Analysis, Forensics Basics
+- Risk Management Governance & Compliance: NIST, ISO, GDPR, HIPAA
+- Identity & Access Management (IAM): MFA and Authentication Protocols
+- Data Security: Encryption, PKI and Secure Disposal Practices
+- System Hardening, Patch Management and Secure Configurations
+- Intro to SQL, Bash, Python Scripting and Automation
+- Incident Response, Business Continuity and Disaster Recovery
+- Virtualization & Cloud Fundamentals: IaaS, SaaS, VMs and Containers
+- Advanced Network Design and Troubleshooting
+- Network Defense and Secure Architecture
+- Solo Project: Secure Network Implementation and Monitoring
+
+## Flagship Portfolio — Recruiter Fast Path
+
+These are the six repositories I recommend reviewing first. They are deliberately ordered to show complementary evidence across Secure AI, software engineering, GRC, cloud security and SOC work.
+
+| Priority | Project | Primary hiring signal |
+| ---: | --- | --- |
+| **#1** | **[Officer-Bound Digital Investigation Agent](https://github.com/a-bonfim-tech/officer-bound-digital-investigation-agent)** | Secure AI / agent authorization, human accountability, IAM boundaries, threat modeling, Go, DevSecOps, evidence engineering and governed security architecture. |
+| **#2** | **[Bonfim SDK](https://github.com/a-bonfim-tech/bonfim-sdk)** | Governed Python SDK for auditable security Skills, Agents and Automations; strict typing, testing, SAST, SBOM, secret scanning, packaging and build provenance. |
+| **#3** | **[AI SaaS Security & Compliance Fit-Gap](https://github.com/a-bonfim-tech/ai-saas-security-compliance-fit-gap-public)** | TypeScript security/compliance automation spanning NIST CSF, ISO 27001, SOC 2, GDPR, EU AI Act and OWASP-oriented evidence assessment. |
+| **#4** | **[GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases)** | Evidence-backed GCP security cases covering Cloud Armor, Cloud NGFW, BeyondCorp, CMEK/KMS, logging, monitoring and VPC Flow Logs. |
+| **#5** | **[TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)** | Network forensics, phishing detection, HTTP analysis, IOC extraction and threat-intelligence correlation using a SOC-style workflow. |
+| **#6** | **[Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity)** | Security decision engineering, detection strategy, governance, SOC reasoning and audit-oriented documentation. |
+
+For role-specific navigation and the wider repository classification, see [PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
 
 ## Core Focus
 
-| Domain | Current focus |
+| Domain | Evidence represented in the portfolio |
 | --- | --- |
-| Cloud Security | Azure and Google Cloud security controls, IAM, network exposure, encryption, logging and monitoring |
-| Identity & Access | MFA, privileged access, least privilege, RBAC/ABAC and Zero Trust concepts |
-| Security Operations | Network traffic analysis, IOC extraction, log analysis and incident-response fundamentals |
-| Security Governance | Control assessment, evidence management, audit readiness, risk communication and technical documentation |
-| DevSecOps | GitHub Actions, CodeQL, SBOM, vulnerability scanning, secrets detection and policy-as-code |
+| Secure AI & Agent Security | Human-bound authorization, default-deny execution, agent governance, secure automation and explicit authority boundaries |
+| Cloud Security | Azure and Google Cloud controls, IAM, network exposure, encryption, logging, monitoring and risk decisions |
+| Identity & Access Management | MFA, privileged access, least privilege, RBAC/ABAC, Zero Trust and identity-first security models |
+| Security Operations | Network traffic analysis, IOC extraction, investigation structure, SIEM concepts and incident-response fundamentals |
+| Security Governance / GRC | Control assessment, evidence management, audit readiness, risk communication, GDPR, ISO 27001 and NIST-aligned reasoning |
+| DevSecOps / Supply Chain | GitHub Actions, CodeQL, SAST, SBOM, vulnerability scanning, secret detection, branch protection and provenance |
+| Security Automation | Python, TypeScript, Bash and deterministic evidence/report generation |
 
-## Featured Portfolio
+## Practical Experience — Panos.AI
 
-| Project | Evidence demonstrated |
-| --- | --- |
-| [GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases) | Five evidence-based cloud security cases covering Cloud Armor, Cloud NGFW, BeyondCorp, CMEK/KMS, Cloud Logging, Monitoring and VPC Flow Logs |
-| [TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) | PCAP analysis, phishing detection, HTTP POST inspection, IOC extraction and threat-intelligence correlation |
-| [DevSecOps Baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) | GitHub Actions security gates with SBOM generation, vulnerability scanning, secrets detection and OPA policy-as-code |
-| [Guided Web Pentest](https://github.com/a-bonfim-tech/thm-guided-pentest-web) | Authorized web assessment covering reconnaissance, IDOR, weak password-reset logic, administrative access, RCE and vulnerability chaining |
-| [Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity) | Synthetic governance and decision-documentation framework for SOC, audit and risk-review scenarios |
-| [Cloud Risk Decision Framework](https://github.com/a-bonfim-tech/cloud-risk-decision-framework) | Documentation-first cloud risk case studies focused on decisions, trade-offs and audit traceability |
+**Cybersecurity Intern — Berlin**  
+**8 weeks · 320 hours**
 
-For role-specific navigation, see [PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
-
-## Internship Experience
-
-**Cybersecurity Intern — Panos.AI, Berlin**  
-**08 June 2026 – 02 August 2026 · 320 hours**
-
-- Assessed and documented security controls for cloud environments, focusing on encryption, IAM, logging, backup and recovery.
+- Assessed and documented cloud-security controls focused on encryption, IAM, logging, monitoring, backup and recovery.
 - Supported GDPR and ISO/IEC 27001-oriented compliance activities through evidence collection and technical control validation.
-- Reviewed TLS 1.3, HTTPS, HSTS and Microsoft Azure Storage encryption configurations.
+- Reviewed TLS 1.3, HTTPS/HSTS and Microsoft Azure Storage encryption controls.
 - Evaluated MFA, privileged access, audit trails and monitoring controls.
-- Contributed to audit-ready documentation using GitHub, pull requests, GitHub Actions, CodeQL, Linear, Markdown and JSON.
+- Contributed to audit-ready technical documentation and Git-based review workflows.
 
 ## Selected Technical Skills
 
-`Microsoft Azure` · `Google Cloud` · `IAM` · `MFA` · `TLS 1.3` · `HTTPS` · `HSTS` · `GitHub Actions` · `CodeQL` · `TShark` · `Wireshark` · `Nmap` · `Linux` · `Markdown` · `JSON`
+`Python` · `Go` · `TypeScript` · `Bash` · `Microsoft Azure` · `Google Cloud` · `IAM` · `MFA` · `Zero Trust` · `TLS 1.3` · `PKI` · `GitHub Actions` · `CodeQL` · `SBOM` · `SAST` · `TShark` · `Wireshark` · `Nmap` · `Linux` · `Security Automation` · `Threat Modeling`
 
 ## Frameworks and Methods
 
-`GDPR` · `ISO/IEC 27001 fundamentals` · `NIST Cybersecurity Framework 2.0` · `OWASP WSTG` · `OWASP Top 10` · `PTES`
+`GDPR` · `ISO/IEC 27001 fundamentals` · `NIST Cybersecurity Framework 2.0` · `SOC 2 concepts` · `EU AI Act` · `OWASP` · `OWASP WSTG` · `OWASP Top 10` · `PTES`
 
-## Selected Credentials
+## Selected Credentials and Learning Evidence
 
+- **MSIT — Cybersecurity Bootcamp — 2720 Unterrichtsstunden — Security Operations Center Analysis**
 - Google Cybersecurity Professional Certificate
 - Security in Google Cloud coursework and specialization certificates
 - Google Cloud networking and Cloud NGFW training
@@ -78,19 +112,21 @@ For role-specific navigation, see [PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
 Every anchor project should make the following clear:
 
 1. Scope and authorization
-2. My individual contribution
+2. Individual contribution
 3. Methodology and tools
-4. Reproducible execution steps
+4. Reproducible execution or validation steps
 5. Technical evidence and findings
 6. Risk interpretation and limitations
 7. Security and privacy safeguards
+8. Human decision boundaries where automation or AI is involved
 
-## Current Development Priorities
+## Current Engineering Priorities
 
-- Publish a sanitized security-controls evidence portfolio derived from internship competencies without exposing proprietary information.
-- Strengthen cloud IAM and security-control labs with reproducible scripts and sanitized evidence.
-- Expand SOC case studies with detection logic, timelines and mapped response decisions.
-- Maintain a clear separation between verified evidence, assumptions, recommendations and future work.
+1. Preserve the OBDIA `v0.1.x` bounded reference slice as the stable security baseline and evolve a separate `v0.2.x` productionization architecture track.
+2. Elevate Bonfim SDK `v0.2.x` through public-repository and release hardening, followed by a `v0.3.x` isolated-execution architecture track.
+3. Harden the AI SaaS Security & Compliance Fit-Gap project as the primary GRC / AI-governance portfolio anchor.
+4. Strengthen GCP cloud-security evidence with reproducible, sanitized IAM and control-validation artifacts.
+5. Expand SOC evidence with detection logic, investigation timelines and mapped response decisions.
 
 ## Languages
 
@@ -98,6 +134,6 @@ Portuguese — native · German — professional working proficiency · English 
 
 ## Security and Responsible Disclosure
 
-Public repositories use authorized labs, synthetic data or sanitized examples. No active credentials, customer data, internal company identifiers or production secrets should be published.
+Public repositories use authorized labs, synthetic data or sanitized examples. No active credentials, customer data, employer-owned internal identifiers or production secrets should be published.
 
 Security concerns related to this profile repository can be reported according to [SECURITY.md](SECURITY.md).
