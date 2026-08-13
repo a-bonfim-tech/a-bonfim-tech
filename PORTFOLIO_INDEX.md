@@ -1,100 +1,141 @@
 # Cybersecurity Portfolio Index
 
-A recruiter-facing map of the public portfolio, organized by demonstrated evidence rather than by course completion or broad skill claims.
+A recruiter-facing map of the public portfolio, organized by demonstrated evidence, technical depth and complementary hiring signals rather than by repository age or course completion.
 
 ## Professional Positioning
 
-**Junior Cybersecurity Analyst — Cloud Security, IAM, Security Governance and SOC-related analysis**
+**Cybersecurity — Secure AI, Cloud Security, IAM, Security Automation, Security Governance and SOC-related analysis**
 
-The portfolio is designed to show four evidence categories:
+The portfolio is intentionally structured around six evidence dimensions:
 
-1. **Cloud controls** — IAM, network security, encryption, logging and policy decisions.
-2. **Security operations** — traffic analysis, IOC extraction, investigation and incident reasoning.
-3. **Secure engineering** — CI security gates, SBOM, scanning and policy-as-code.
-4. **Governance and assurance** — control assessment, technical evidence, risk decisions and audit-ready documentation.
+1. **Secure AI and authorization architecture** — bounded agency, human accountability, identity, scope and execution controls.
+2. **Security engineering and automation** — governed SDKs, deterministic validation, testing, packaging and supply-chain controls.
+3. **Governance, risk and compliance** — control mapping, evidence, risk scoring, remediation and audit-oriented outputs.
+4. **Cloud security** — IAM, network controls, encryption, logging, Zero Trust and cloud-security evidence.
+5. **Security operations** — traffic analysis, IOC extraction, phishing investigation and incident reasoning.
+6. **Security decision engineering** — detection strategy, governance, auditability and human-reviewed security decisions.
 
-## Recruiter Fast Path
+## Recruiter Fast Path — Six Flagship Repositories
 
-For a ten-minute review, inspect these projects in order:
+For a 15–20 minute review, inspect these projects in this order:
 
-| Order | Repository | What to verify |
+| Priority | Repository | What to verify |
 | ---: | --- | --- |
-| 1 | [GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases) | Cloud Armor, Cloud NGFW, BeyondCorp, KMS, logging, monitoring and evidence-based cloud review. |
-| 2 | [TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) | PCAP investigation, phishing identification, HTTP analysis, IOC extraction and threat-intelligence correlation. |
-| 3 | [DevSecOps Baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) | GitHub Actions, SBOM generation, vulnerability scanning, secrets detection and OPA policy-as-code. |
-| 4 | [Guided Web Pentest](https://github.com/a-bonfim-tech/thm-guided-pentest-web) | Authorized scope, reconnaissance, IDOR, weak reset logic, RCE, vulnerability chaining and reporting. |
-| 5 | [Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity) | Synthetic security-decision documentation, governance controls and audit-oriented reasoning. |
-| 6 | [Cloud Risk Decision Framework](https://github.com/a-bonfim-tech/cloud-risk-decision-framework) | Cloud-risk options, trade-offs, decision records and limitation-aware recommendations. |
+| **1** | **[Officer-Bound Digital Investigation Agent](https://github.com/a-bonfim-tech/officer-bound-digital-investigation-agent)** | Human-bound authorization, default-DENY execution, officer/case/scope/time/connector binding, threat modeling, Go implementation, AC01–AC20, fuzzing, security scanning, SBOM, CI and evidence governance. |
+| **2** | **[Bonfim SDK](https://github.com/a-bonfim-tech/bonfim-sdk)** | Governed Python Skills/Agents/Automations, 3.11–3.14 compatibility, strong test/coverage evidence, strict typing, SAST, full-history secret scanning, CycloneDX SBOM, packaging and provenance. |
+| **3** | **[AI SaaS Security & Compliance Fit-Gap](https://github.com/a-bonfim-tech/ai-saas-security-compliance-fit-gap-public)** | TypeScript evidence engine mapping security/compliance requirements to controls, evidence, gaps, risk and remediation across NIST CSF, ISO 27001, SOC 2, GDPR, EU AI Act and OWASP-oriented domains. |
+| **4** | **[GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases)** | Cloud Armor, Cloud NGFW, BeyondCorp, CMEK/KMS, logging, monitoring, VPC Flow Logs and evidence-backed cloud-security reasoning. |
+| **5** | **[TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)** | PCAP investigation, phishing identification, HTTP analysis, IOC extraction, defanging and threat-intelligence correlation. |
+| **6** | **[Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity)** | Security-decision operating model, detection strategy, SOC reasoning, governance constraints, synthetic evidence and audit-oriented decision documentation. |
+
+## Why This Order
+
+The six repositories are intentionally complementary:
+
+```text
+Secure AI Architecture
+        ↓
+Security Engineering & Automation
+        ↓
+GRC / AI Governance
+        ↓
+Cloud Security
+        ↓
+SOC Hands-On Investigation
+        ↓
+Security Decision Engineering
+```
+
+The objective is to demonstrate breadth without presenting a collection of disconnected labs.
 
 ## Role-Based Reading Paths
+
+### Secure AI / AI Security / Security Architecture
+
+1. `officer-bound-digital-investigation-agent`
+2. `bonfim-sdk`
+3. `ai-saas-security-compliance-fit-gap-public`
+
+Signals: human accountability, authority boundaries, fail-closed execution, secure agent design, threat modeling, governance and evidence engineering.
+
+### Security Automation / DevSecOps
+
+1. `bonfim-sdk`
+2. `officer-bound-digital-investigation-agent`
+3. `ai-saas-security-compliance-fit-gap-public`
+
+Signals: Python/Go/TypeScript engineering, deterministic validation, tests, CI, SAST, SBOM, provenance, secret scanning and secure release practices.
 
 ### Cloud Security and IAM
 
 1. `gcp-security-study-cases`
-2. `ai-devsecops-baseline`
-3. `cloud-risk-decision-framework`
+2. `officer-bound-digital-investigation-agent`
+3. `ai-saas-security-compliance-fit-gap-public`
 
-Signals: cloud-control knowledge, identity-first security, network exposure review, logging, encryption and defensible risk decisions.
+Signals: cloud-control knowledge, identity-first security, Zero Trust, network exposure review, logging, encryption and defensible risk decisions.
 
-### SOC and Blue Team
+### Security Governance / GRC / AI Governance
+
+1. `ai-saas-security-compliance-fit-gap-public`
+2. `officer-bound-digital-investigation-agent`
+3. `human-siem-cybersecurity`
+
+Signals: control assessment, evidence management, risk communication, auditability, GDPR/ISO/NIST-oriented reasoning, AI governance and explicit limitations.
+
+### SOC / Blue Team
 
 1. `tshark-teamwork-soc-case-study`
 2. `human-siem-cybersecurity`
-3. `ai-devsecops-baseline`
-
-Signals: evidence handling, packet and log analysis, IOC development, investigation structure and operational documentation.
-
-### Security Governance and GRC
-
-1. `cloud-risk-decision-framework`
-2. `human-siem-cybersecurity`
 3. `gcp-security-study-cases`
 
-Signals: control assessment, risk communication, traceability, audit-ready documentation and explicit limitations.
+Signals: packet analysis, IOC development, investigation structure, cloud observability, escalation reasoning and operational documentation.
 
-### DevSecOps and Security Automation
+## Supporting Public Portfolio
 
-1. `ai-devsecops-baseline`
-2. `gcp-security-study-cases`
-3. `thm-guided-pentest-web`
+These repositories remain useful supporting evidence but are intentionally secondary to the six flagships:
 
-Signals: repeatable checks, workflow security, scanning, policy gates and technically grounded remediation.
+- [AI DevSecOps Baseline](https://github.com/a-bonfim-tech/ai-devsecops-baseline) — automated security gates, SBOM, vulnerability and secrets controls.
+- [Guided Web Pentest](https://github.com/a-bonfim-tech/thm-guided-pentest-web) — authorized web application assessment, IDOR, authentication weaknesses, RCE and attack-chain analysis.
+- [Cloud Risk Decision Framework](https://github.com/a-bonfim-tech/cloud-risk-decision-framework) — documentation-first cloud-risk decisions and audit traceability.
+- [Cyber-Portfolio](https://github.com/a-bonfim-tech/Cyber-Portfolio) — governance and audit-oriented security documentation.
+- [Kali DevSecOps Baseline](https://github.com/a-bonfim-tech/kali-devsecops-baseline) — repeatable workstation security baseline and evidence collection.
+- [AWS EBS Snapshot Audit](https://github.com/a-bonfim-tech/aws-ec2-ebs-snapshot-check-bash) — read-only AWS snapshot-security audit automation.
+- [Gemini Security Engineering Study Lab](https://github.com/a-bonfim-tech/gemini-security-engineering-study-lab) — evidence-first AI-assisted security analysis using synthetic data.
+- [Security+ Crypto Lab](https://github.com/a-bonfim-tech/security-plus-crypto-lab) — TLS 1.3 and cryptographic evidence exercises.
 
-### Web Security
-
-1. `thm-guided-pentest-web`
-2. `tshark-teamwork-soc-case-study`
-
-Signals: authorized testing, vulnerability chaining, traffic evidence and professional reporting.
+Training-oriented and conceptual repositories remain available for depth but do not receive recruiter priority over independently engineered flagship artifacts.
 
 ## Evidence Standard
 
 A project qualifies for recruiter priority only when it clearly states:
 
-- the problem and authorized scope;
-- the author's contribution;
-- tools, methodology and assumptions;
+- problem and authorized scope;
+- individual contribution;
+- methodology, tools and assumptions;
 - reproducible execution or validation steps;
-- sanitized evidence;
+- sanitized technical evidence;
 - findings and risk interpretation;
 - remediation, decision or conclusion;
 - limitations and unresolved work;
-- separation between original work and third-party material.
+- security/privacy safeguards;
+- separation between original work and third-party material;
+- human authority boundaries where AI or automation is involved.
 
 ## Publication Rules
 
-- No credentials, tokens, private keys, internal identifiers or production evidence.
-- No employer-owned material without explicit publication authorization.
+- No credentials, tokens, private keys, customer data, employer-owned evidence or production secrets.
 - No unsupported claims of compliance, certification, seniority or production readiness.
-- Private canonical projects require a separate, sanitised public portfolio edition.
-- Forks do not receive recruiter priority unless the contribution is substantial and documented.
+- Synthetic and training environments must be identified explicitly.
+- Private canonical projects require an explicit publication/sanitization decision before public use.
+- Forks do not receive recruiter priority unless the individual contribution is substantial and documented.
 
 The full release procedure is defined in [PRIVATE_REPOSITORY_PUBLICATION_GATE.md](PRIVATE_REPOSITORY_PUBLICATION_GATE.md).
 
-## Current Portfolio Roadmap
+## Current Elevation Queue
 
-1. Prepare a sanitized public portfolio edition based on security-control assessment experience.
-2. Harden and publish the strongest private security-automation project after security review.
-3. Complete the GCP Cloud Security Lab with reproducible, sanitized evidence.
-4. Standardize README structure, security policies, licenses, CI and recruiter reading paths across anchor repositories.
-5. Replace provisional pins only after the new projects pass publication and evidence gates.
+1. **OBDIA** — preserve `v0.1.x` as the bounded reference baseline; develop `v0.2.x` productionization architecture without weakening the original security boundary.
+2. **Bonfim SDK** — public/release hardening for `v0.2.x`, followed by `v0.3.x` isolated execution architecture.
+3. **AI SaaS Security & Compliance Fit-Gap** — raise public assurance, evidence and release maturity as the primary GRC / AI-governance anchor.
+4. **GCP Security Study Cases** — deepen IAM and cloud-control reproducibility.
+5. **TShark SOC Case Study** — add detection engineering, incident timeline and mapped response decisions.
+6. **Human SIEM** — strengthen executable validation/evidence while preserving its decision-engineering role.
