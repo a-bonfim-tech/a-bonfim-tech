@@ -5,8 +5,8 @@
 <h1 align="center">André Luiz Vieira Bonfim</h1>
 
 <p align="center">
-  <strong>Cybersecurity · Secure AI · Cloud Security · IAM · Security Automation · Security Governance</strong><br/>
-  Berlin, Germany · Evidence-driven security engineering and human-accountable AI
+  <strong>Security Engineering · Detection Engineering · Secure AI · Security Automation</strong><br/>
+  Berlin, Germany · Evidence-driven engineering with explicit claim boundaries
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 ## Professional Profile
 
-Cybersecurity professional based in Berlin focused on **Secure AI, Cloud Security, Identity & Access Management (IAM), Security Operations, Security Automation and evidence-driven Security Governance**.
+Cybersecurity professional based in Berlin focused on **security engineering, detection engineering, Secure AI and security automation**.
 
 I build security work around a consistent engineering principle: **claims should be supported by reproducible technical evidence, explicit scope, documented limitations, traceable decisions and human accountability.** My portfolio therefore emphasizes not only what a system can do, but also **who is authorized to act, under which boundaries, how the action is verified and what evidence remains afterward**.
 
-My practical work includes officer-bound AI-agent authorization architecture, governed Python SDK engineering, cloud-security evidence cases, security/compliance automation, SOC-oriented network analysis and audit-ready control assessment.
+My practical work includes a tested segmented private-cloud homelab, officer-bound AI-agent authorization architecture, governed Python SDK engineering, security/compliance automation and SOC-oriented network analysis.
 
 ## Professional Cybersecurity Training — Completion Certificate
 
@@ -62,16 +62,16 @@ The course title **Cybersecurity Bootcamp** and specialization **Security Operat
 
 ## Flagship Portfolio — Recruiter Fast Path
 
-These are the six repositories I recommend reviewing first. They are deliberately ordered to demonstrate complementary evidence across **Secure AI, software engineering, GRC, cloud security and SOC work**.
+These are the six repositories I recommend reviewing first. They are deliberately ordered to demonstrate complementary evidence across **security infrastructure, Secure AI, software engineering, GRC and detection work**.
 
 | Priority | Project | Primary hiring signal |
 | ---: | --- | --- |
-| **#1** | **[Officer-Bound Digital Investigation Agent](https://github.com/a-bonfim-tech/officer-bound-digital-investigation-agent)** | Secure AI / agent authorization, human accountability, IAM boundaries, threat modeling, Go, DevSecOps, evidence engineering and governed security architecture. |
-| **#2** | **[Bonfim SDK](https://github.com/a-bonfim-tech/bonfim-sdk)** | Governed Python SDK for auditable security Skills, Agents and Automations; strict typing, testing, SAST, SBOM, secret scanning, packaging and build provenance. |
-| **#3** | **[AI SaaS Security & Compliance Fit-Gap](https://github.com/a-bonfim-tech/ai-saas-security-compliance-fit-gap-public)** | TypeScript security/compliance automation spanning NIST CSF, ISO 27001, SOC 2, GDPR, EU AI Act and OWASP-oriented evidence assessment. |
-| **#4** | **[GCP Security Study Cases](https://github.com/a-bonfim-tech/gcp-security-study-cases)** | Evidence-backed GCP security cases covering Cloud Armor, Cloud NGFW, BeyondCorp, CMEK/KMS, logging, monitoring and VPC Flow Logs. |
-| **#5** | **[TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)** | Network forensics, phishing detection, HTTP analysis, IOC extraction and threat-intelligence correlation using a SOC-style workflow. |
-| **#6** | **[Human SIEM Cybersecurity](https://github.com/a-bonfim-tech/human-siem-cybersecurity)** | Security decision engineering, detection strategy, governance, SOC reasoning and audit-oriented documentation. |
+| **#1** | **[Cybersecurity Private Cloud Homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)** | Native FreeBSD PF segmentation evidence, Suricata and Wazuh detection tests, IaC, threat modeling, evidence integrity and explicit deployment limits. |
+| **#2** | **[Officer-Bound Digital Investigation Agent](https://github.com/a-bonfim-tech/officer-bound-digital-investigation-agent)** | Secure AI authorization, human accountability, IAM boundaries, threat modeling, tested Go reference implementation and governed evidence. |
+| **#3** | **[Bonfim SDK](https://github.com/a-bonfim-tech/bonfim-sdk)** | Governed Python SDK with strict typing, tests, SAST, SBOM, secret scanning, packaging and build provenance. |
+| **#4** | **[AI SaaS Security & Compliance Fit-Gap](https://github.com/a-bonfim-tech/ai-saas-security-compliance-fit-gap-public)** | TypeScript security/compliance automation spanning NIST CSF, ISO 27001, SOC 2, GDPR, EU AI Act and OWASP-oriented evidence assessment. |
+| **#5** | **[Gemini Security Engineering Study Lab](https://github.com/a-bonfim-tech/gemini-security-engineering-study-lab)** | Tested synthetic event correlation with human validation, AI-risk controls and explicit separation between learned, demonstrated and unproven claims. |
+| **#6** | **[TShark SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)** | Authorized network-forensics study covering phishing, HTTP analysis, IOC extraction and threat-intelligence correlation. |
 
 For role-specific navigation and the wider repository classification, see [PORTFOLIO_INDEX.md](PORTFOLIO_INDEX.md).
 
@@ -130,10 +130,10 @@ Every anchor project should make the following clear:
 
 ## Current Engineering Priorities
 
-1. Preserve the OBDIA `v0.1.x` bounded reference slice as the stable security baseline and evolve a separate `v0.2.x` productionization architecture track.
-2. Elevate Bonfim SDK through a release-hardening track, followed by a later isolated-execution architecture line.
-3. Harden the AI SaaS Security & Compliance Fit-Gap project as the primary GRC / AI-governance portfolio anchor.
-4. Strengthen GCP cloud-security evidence with reproducible, sanitized IAM and control-validation artifacts.
+1. Extend the private-cloud homelab only through bounded, reproducible integration tests while keeping unproven deployment claims explicit.
+2. Preserve the OBDIA `v0.1.x` bounded reference slice as the stable security baseline and evolve productionization separately.
+3. Elevate Bonfim SDK through release hardening and later isolated-execution research.
+4. Harden the AI SaaS Security & Compliance Fit-Gap project as the primary GRC and AI-governance anchor.
 5. Expand SOC evidence with detection logic, investigation timelines and mapped response decisions.
 
 ## Languages
