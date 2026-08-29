@@ -130,6 +130,8 @@ A project qualifies for recruiter priority only when it clearly states:
 - Private canonical projects require an explicit publication/sanitization decision before public use.
 - Forks do not receive recruiter priority unless the individual contribution is substantial and documented.
 
+The full release procedure is defined in [PRIVATE_REPOSITORY_PUBLICATION_GATE.md](PRIVATE_REPOSITORY_PUBLICATION_GATE.md).
+
 ## Current Elevation Queue
 
 1. **Private Cloud Homelab** — close validated security findings and expand only through bounded integration evidence.

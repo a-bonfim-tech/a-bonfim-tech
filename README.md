@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="André Bonfim — Cybersecurity, Secure AI, Cloud Security, IAM, Security Automation and Governance" />
+  <img src="assets/banner.svg" alt="André Luiz Vieira Bonfim — Junior Cybersecurity Analyst focused on Cloud Security, IAM and Security Governance" />
 </p>
 
 <h1 align="center">André Luiz Vieira Bonfim</h1>
