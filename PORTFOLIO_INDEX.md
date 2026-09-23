@@ -27,7 +27,7 @@ Primary target: first SOC Analyst / Junior Cybersecurity role. No production SOC
 
 ## Pin recommendation
 
-Current six: homelab, Gemini synthetic correlation, Kali baseline, TLS lab, Bonfim SDK and OBDIA. The TShark training narrative remains in the reading path but should stay unpinned until permitted command-output evidence exists. OBDIA is a supporting engineering slot, not a substitute for a missing endpoint case. No current pin supplies real Windows or executed cloud-SOC evidence.
+Current six, in profile order: SOC Analyst Lab, homelab, OBDIA, Bonfim SDK, Gemini synthetic correlation and TShark. The SOC Analyst Lab is the primary recruiter-facing SOC evidence path. TShark remains bounded guided-training evidence because no retained PCAP/command output or independently verified incident is claimed. OBDIA and Bonfim SDK are supporting engineering evidence, not substitutes for endpoint investigation. No current pin supplies retained real Windows endpoint evidence or executed cloud-SOC evidence.
 
 Preferred recruiter-facing set: dedicated public SOC case repository; homelab; independently reproduced network investigation when evidence is retained; GCP audit/identity investigation when executed; Linux authentication evidence where non-duplicative; Bonfim SDK as supporting engineering evidence. Prefer fewer strong pins over redundant or unproven claims.
 
