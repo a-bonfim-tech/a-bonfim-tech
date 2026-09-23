@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-profile-soc-banner.jpeg" alt="André Bonfim — SOC Analyst | Security Operations" width="100%" />
+</p>
+
 # André Bonfim — SOC / Junior Cybersecurity
 
 Berlin, Germany · Seeking a first professional SOC Analyst / Tier 1 or Junior Cybersecurity role.
@@ -67,9 +71,3 @@ The course title **Cybersecurity Bootcamp** and specialization **Security Operat
 
 
 Certificate transcription is preserved from the prior profile; this remediation did not independently authenticate the issuer or convert training/internship hours into production SOC employment.
-
-<details><summary>Existing portfolio artwork</summary>
-
-<img src="assets/banner.png" alt="Existing security engineering portfolio artwork" />
-
-</details>
