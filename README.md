@@ -10,13 +10,14 @@ Berlin, Germany · Seeking a first professional SOC Analyst / Tier 1 or Junior C
 
 ## SOC / Junior Cybersecurity — Start Here
 
-1. **[Detection and analyst review — public homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)**: retained Suricata alert, Wazuh native rule-test output, negative controls and separate native PF evidence. Lab testing does not prove an operational SOC pipeline.
-2. **[Synthetic event correlation](https://github.com/a-bonfim-tech/gemini-security-engineering-study-lab)**: inspect input, Python logic, tests and a bounded possible-mining conclusion. No Google SecOps runtime claim.
-3. **[Linux workstation evidence](https://github.com/a-bonfim-tech/kali-devsecops-baseline)**: dated collection records and scripts; not a completed incident investigation.
-4. **[Guided TShark case](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)**: TryHackMe provenance and reported completion; retained command-output gap is explicit.
-5. **[TLS evidence](https://github.com/a-bonfim-tech/security-plus-crypto-lab)**: inspect handshake/certificate artifacts; no production PKI claim.
+1. **[SOC Analyst Lab — investigations, detection and escalation](https://github.com/a-bonfim-tech/soc-analyst-lab)**: public SOC portfolio with evidence-bounded investigations, timelines, authentication analysis, severity and Tier 2 escalation reasoning, plus synthetic Windows Security/Sysmon-style fixtures, Sigma rules and KQL source. Local validation does not constitute production SIEM or KQL-runtime execution.
+2. **[Detection and analyst review — public homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)**: retained Suricata alert, Wazuh native rule-test output, negative controls and separate native PF evidence. Lab testing does not prove an operational SOC pipeline.
+3. **[Synthetic event correlation](https://github.com/a-bonfim-tech/gemini-security-engineering-study-lab)**: inspect input, Python logic, tests and a bounded possible-mining conclusion. No Google SecOps runtime claim.
+4. **[Linux workstation evidence](https://github.com/a-bonfim-tech/kali-devsecops-baseline)**: dated collection records and scripts; not a completed incident investigation.
+5. **[Guided TShark case](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)**: TryHackMe provenance and reported completion; retained command-output gap is explicit.
+6. **[TLS evidence](https://github.com/a-bonfim-tech/security-plus-crypto-lab)**: inspect handshake/certificate artifacts; no production PKI claim.
 
-The primary SOC case repository is currently private and is not a public review path. Real Windows event-log evidence, retained KQL runtime results and an executed cloud-SOC investigation remain gaps. No inaccessible private link is presented as recruiter proof.
+The dedicated [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab) is now a public review path. It includes controlled Linux authentication evidence and synthetic Windows Security/Sysmon-style investigation artifacts, with Sigma parsing and KQL source kept within explicit execution boundaries. Real Windows endpoint evidence, retained KQL-runtime results and an executed cloud-SOC investigation remain gaps.
 
 [Portfolio index](PORTFOLIO_INDEX.md) · [Safe CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
 
