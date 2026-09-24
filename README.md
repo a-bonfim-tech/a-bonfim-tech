@@ -6,7 +6,7 @@
 
 Berlin, Germany · Seeking a first professional SOC Analyst / Tier 1 or Junior Cybersecurity role.
 
-**I have not worked in a production SOC.** My portfolio contains laboratory execution, synthetic detection tests, guided training and supporting security engineering. Each has a different evidence boundary.
+My portfolio demonstrates hands-on **SOC investigation, alert triage, detection, timeline reconstruction, escalation, and supporting security engineering** through controlled laboratories, reproducible exercises, and documented evidence.
 
 ## SOC / Junior Cybersecurity — Start Here
 
