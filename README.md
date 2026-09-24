@@ -2,11 +2,11 @@
   <img src="assets/github-profile-soc-banner.jpeg" alt="André Bonfim — SOC Analyst | Security Operations" width="100%" />
 </p>
 
-# André Bonfim — SOC / Junior Cybersecurity
+# André Bonfim — SOC Analyst | Security Operations
 
-Berlin, Germany · Seeking a first professional SOC Analyst / Tier 1 or Junior Cybersecurity role.
+**Alert Triage · Incident Investigation · Windows Telemetry · Detection · KQL · Sigma**
 
-My portfolio demonstrates hands-on **SOC investigation, alert triage, detection, timeline reconstruction, escalation, and supporting security engineering** through controlled laboratories, reproducible exercises, and documented evidence.
+Hands-on SOC portfolio demonstrating **alert investigation, evidence correlation, timeline reconstruction, severity assessment, escalation and disposition** through controlled laboratories and reproducible evidence.
 
 ## SOC / Junior Cybersecurity — Start Here
 
