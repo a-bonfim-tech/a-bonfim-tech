@@ -16,13 +16,13 @@ My portfolio demonstrates hands-on **SOC investigation, alert triage, detection,
 4. **[Network investigation](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)**: guided packet-analysis case covering phishing traffic and IOC extraction.
 5. **[TLS evidence](https://github.com/a-bonfim-tech/security-plus-crypto-lab)**: retained TLS handshake and certificate analysis artifacts.
 
-The dedicated [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab) is now a public review path. It includes controlled Linux authentication evidence and synthetic Windows Security/Sysmon-style investigation artifacts, with Sigma parsing and KQL source kept within explicit execution boundaries. Real Windows endpoint evidence, retained KQL-runtime results and an executed cloud-SOC investigation remain gaps.
+The [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab) is the primary review path. It includes controlled Linux authentication analysis, a sanitized correlation artifact derived from real Windows endpoint EventRecord XML, Windows Security and Sysmon analysis, PowerShell telemetry, synthetic detection fixtures, Sigma rules, KQL source, timelines, findings and escalation documentation.
 
-[Portfolio index](PORTFOLIO_INDEX.md) · [Safe CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
+[Portfolio index](PORTFOLIO_INDEX.md) · [CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
 
 ## How I approach an alert
 
-Validate the source and time window; preserve evidence; identify the account and asset; correlate related activity; test benign explanations; distinguish observations from hypotheses; document severity and uncertainty; escalate within authority. The linked artifacts show which parts are demonstrated and which remain planned.
+Validate the source and time window; preserve evidence; identify the account and asset; correlate related activity; test benign explanations; distinguish observations from hypotheses; assess severity; document findings and uncertainty; escalate when appropriate.
 
 ## Learning and contact
 
@@ -41,7 +41,7 @@ Validate the source and time window; preserve evidence; identify the account and
 | **Credential ID** | `43529502854875` |
 | **Issue Date** | `July 28, 2026` |
 
-The course title **Cybersecurity Bootcamp** and specialization **Security Operations Center Analysis** are preserved exactly as stated on the completion certificate; descriptive German labels from the certificate are rendered here in English for consistency across the profile.
+The course title **Cybersecurity Bootcamp** and specialization **Security Operations Center Analysis** are reproduced from the completion certificate.
 
 <details>
 <summary><strong>Selected curriculum documented on the certificate</strong></summary>
@@ -66,4 +66,3 @@ The course title **Cybersecurity Bootcamp** and specialization **Security Operat
 </details>
 
 
-Certificate transcription is preserved from the prior profile; this remediation did not independently authenticate the issuer or convert training/internship hours into production SOC employment.
