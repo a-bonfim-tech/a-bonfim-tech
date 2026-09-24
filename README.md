@@ -10,12 +10,11 @@ My portfolio demonstrates hands-on **SOC investigation, alert triage, detection,
 
 ## SOC / Junior Cybersecurity — Start Here
 
-1. **[SOC Analyst Lab — investigations, detection and escalation](https://github.com/a-bonfim-tech/soc-analyst-lab)**: public SOC portfolio with evidence-bounded investigations, timelines, authentication analysis, severity and Tier 2 escalation reasoning, plus synthetic Windows Security/Sysmon-style fixtures, Sigma rules and KQL source. Local validation does not constitute production SIEM or KQL-runtime execution.
-2. **[Detection and analyst review — public homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)**: retained Suricata alert, Wazuh native rule-test output, negative controls and separate native PF evidence. Lab testing does not prove an operational SOC pipeline.
-3. **[Synthetic event correlation](https://github.com/a-bonfim-tech/gemini-security-engineering-study-lab)**: inspect input, Python logic, tests and a bounded possible-mining conclusion. No Google SecOps runtime claim.
-4. **[Linux workstation evidence](https://github.com/a-bonfim-tech/kali-devsecops-baseline)**: dated collection records and scripts; not a completed incident investigation.
-5. **[Guided TShark case](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)**: TryHackMe provenance and reported completion; retained command-output gap is explicit.
-6. **[TLS evidence](https://github.com/a-bonfim-tech/security-plus-crypto-lab)**: inspect handshake/certificate artifacts; no production PKI claim.
+1. **[SOC Analyst Lab — investigations, detection and escalation](https://github.com/a-bonfim-tech/soc-analyst-lab)**: public SOC portfolio with evidence-bounded investigations, timelines, authentication analysis, severity and Tier 2 escalation reasoning, plus Windows Security/Sysmon investigation artifacts, Sigma rules and KQL source.
+2. **[Detection and analyst review — public homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)**: retained Suricata alert, Wazuh native rule-test output, negative controls and native PF evidence.
+3. **[Linux workstation evidence](https://github.com/a-bonfim-tech/kali-devsecops-baseline)**: dated Linux security-state collection and scripts.
+4. **[Network investigation](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)**: guided packet-analysis case covering phishing traffic and IOC extraction.
+5. **[TLS evidence](https://github.com/a-bonfim-tech/security-plus-crypto-lab)**: retained TLS handshake and certificate analysis artifacts.
 
 The dedicated [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab) is now a public review path. It includes controlled Linux authentication evidence and synthetic Windows Security/Sysmon-style investigation artifacts, with Sigma parsing and KQL source kept within explicit execution boundaries. Real Windows endpoint evidence, retained KQL-runtime results and an executed cloud-SOC investigation remain gaps.
 
@@ -24,10 +23,6 @@ The dedicated [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab
 ## How I approach an alert
 
 Validate the source and time window; preserve evidence; identify the account and asset; correlate related activity; test benign explanations; distinguish observations from hypotheses; document severity and uncertainty; escalate within authority. The linked artifacts show which parts are demonstrated and which remain planned.
-
-## Supporting engineering
-
-[Bonfim SDK](https://github.com/a-bonfim-tech/bonfim-sdk), [OBDIA](https://github.com/a-bonfim-tech/officer-bound-digital-investigation-agent), and [AI fit-gap](https://github.com/a-bonfim-tech/ai-saas-security-compliance-fit-gap-public) provide secondary automation, authorization and governance evidence. They do not substitute for endpoint, SIEM or incident-handling evidence.
 
 ## Learning and contact
 
