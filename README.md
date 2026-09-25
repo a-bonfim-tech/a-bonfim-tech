@@ -28,9 +28,14 @@ Validate the source and time window; preserve evidence; identify the account and
 
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-bonfim) · [TryHackMe](https://tryhackme.com/p/a.bonfim.tech) · [Coursera](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059)
 
-## Professional Cybersecurity Training — Completion Certificate
+## Training & Credentials
 
 **MSIT GmbH — Master School Institute of Technology**
+
+**Cybersecurity Bootcamp** · Security Operations Center Analysis · 2,720 instructional hours · June 3, 2025 – August 3, 2026
+
+<details>
+<summary><strong>View credential details</strong></summary>
 
 | Certificate field | Official information |
 | --- | --- |
@@ -43,8 +48,7 @@ Validate the source and time window; preserve evidence; identify the account and
 
 The course title **Cybersecurity Bootcamp** and specialization **Security Operations Center Analysis** are reproduced from the completion certificate.
 
-<details>
-<summary><strong>Selected curriculum documented on the certificate</strong></summary>
+**Selected curriculum documented on the certificate**
 
 - IT Support Fundamentals: Hardware, Software, Networking Troubleshooting
 - Operating Systems: Windows & Linux Administration
