@@ -4,19 +4,19 @@
 
 # André Bonfim — SOC Analyst | Security Operations
 
-**Alert Triage · Incident Investigation · Windows Telemetry · Detection · KQL · Sigma**
+**Microsoft Defender · Microsoft Sentinel · EDR/SIEM Investigation · Phishing · Incident Investigation · Windows**
 
-Hands-on SOC portfolio demonstrating **alert investigation, evidence correlation, timeline reconstruction, severity assessment, escalation and disposition** through controlled laboratories and reproducible evidence.
+Hands-on SOC portfolio demonstrating **Microsoft Defender/XDR and Sentinel investigation, phishing triage, evidence correlation, severity assessment, escalation and disposition** through controlled laboratories and reproducible evidence.
 
 ## SOC / Junior Cybersecurity — Start Here
 
-1. **[SOC Analyst Lab — investigations, detection and escalation](https://github.com/a-bonfim-tech/soc-analyst-lab)**: public SOC portfolio with evidence-bounded investigations, timelines, authentication analysis, severity and Tier 2 escalation reasoning, plus Windows Security/Sysmon investigation artifacts, Sigma rules and KQL source.
+1. **[SOC Analyst Lab — investigations, detection and escalation](https://github.com/a-bonfim-tech/soc-analyst-lab)**: public SOC portfolio with authorized-lab Defender for Endpoint/XDR and Microsoft Sentinel EDR/SIEM investigation, synthetic phishing/email investigation, Windows/Linux/network cases, documented escalation/disposition, and supporting KQL/Sigma artifacts.
 2. **[Detection and analyst review — public homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)**: retained Suricata alert, Wazuh native rule-test output, negative controls and native PF evidence.
 3. **[Linux workstation evidence](https://github.com/a-bonfim-tech/kali-devsecops-baseline)**: dated Linux security-state collection and scripts.
 4. **[Network investigation](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)**: guided packet-analysis case covering phishing traffic and IOC extraction.
 5. **[TLS evidence](https://github.com/a-bonfim-tech/security-plus-crypto-lab)**: retained TLS handshake and certificate analysis artifacts.
 
-The [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab) is the primary review path. It includes controlled Linux authentication analysis, a sanitized correlation artifact derived from real Windows endpoint EventRecord XML, Windows Security and Sysmon analysis, PowerShell telemetry, synthetic detection fixtures, Sigma rules, KQL source, timelines, findings and escalation documentation.
+The [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab) is the primary review path. It leads with authorized-lab Microsoft Defender for Endpoint/XDR and Microsoft Sentinel investigation, plus synthetic phishing/email triage; Windows, Linux and network investigations provide broader analyst coverage, with KQL and Sigma retained as supporting detection depth.
 
 [Portfolio index](PORTFOLIO_INDEX.md) · [CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
 
