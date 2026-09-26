@@ -6,20 +6,20 @@
 
 **Microsoft Defender · Microsoft Sentinel · EDR/SIEM Investigation · Phishing · Incident Investigation · Windows**
 
-Hands-on SOC portfolio demonstrating **Microsoft Defender/XDR and Sentinel investigation, phishing triage, evidence correlation, severity assessment, escalation and disposition** through controlled laboratories and reproducible evidence.
+Investigated **endpoint, EDR/SIEM, phishing and network cases**; correlated evidence, reconstructed activity, reassessed severity, and documented escalation or closure decisions.
 
 ## SOC / Junior Cybersecurity — Start Here
 
 **Start here → [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)**
 
 ### 1. [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)
-Defender/XDR, Sentinel, phishing, Windows/network investigations, evidence correlation, severity, disposition and escalation.
+Investigated Defender/XDR, Sentinel, Windows/network and phishing cases; correlated evidence, reassessed severity, resolved authorized lab activity, and escalated unresolved phishing risk to Tier 2.
 
 ### 2. [Cybersecurity Private Cloud Homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)
-Executed network-security and detection evidence with Suricata, Wazuh, native PF segmentation and negative controls.
+Validated native PF segmentation, routing, NAT and allow/deny behavior; Suricata and Wazuh detections passed positive and bounded negative tests.
 
 ### 3. [Kali DevSecOps Baseline](https://github.com/a-bonfim-tech/kali-devsecops-baseline)
-Dated Linux security-state evidence, firewall and service review, authentication checks and repeatable collection scripts.
+Collected dated Linux security-state evidence covering firewall, services and authentication, with repeatable baseline outputs retained for review.
 
 <details>
 <summary><strong>Supporting security projects</strong></summary>
@@ -28,6 +28,8 @@ Dated Linux security-state evidence, firewall and service review, authentication
 - [Security+ Crypto Lab](https://github.com/a-bonfim-tech/security-plus-crypto-lab) — retained TLS handshake and certificate-analysis evidence.
 
 </details>
+
+Evidence scope: controlled laboratories and reproducible evidence.
 
 [Portfolio index](PORTFOLIO_INDEX.md) · [CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
 
