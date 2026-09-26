@@ -8,9 +8,9 @@
 
 Investigated **endpoint, EDR/SIEM, phishing and network cases**; correlated evidence, reconstructed activity, reassessed severity, and documented escalation or closure decisions.
 
-## SOC / Junior Cybersecurity — Start Here
+## SOC Analyst Portfolio — Start Here
 
-**Start here → [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)**
+**Primary investigation portfolio → [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)**
 
 ### 1. [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)
 Investigated Defender/XDR, Sentinel, Windows/network and phishing cases; correlated evidence, reassessed severity, resolved authorized lab activity, and escalated unresolved phishing risk to Tier 2.
@@ -37,9 +37,11 @@ Evidence scope: controlled laboratories and reproducible evidence.
 
 Validate the source and time window; preserve evidence; identify the account and asset; correlate related activity; test benign explanations; distinguish observations from hypotheses; assess severity; document findings and uncertainty; escalate when appropriate.
 
-## Learning and contact
+## Contact & Continued Development
 
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-bonfim) · [TryHackMe](https://tryhackme.com/p/a.bonfim.tech) · [Coursera](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059)
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-bonfim)
+
+Continued development: [TryHackMe](https://tryhackme.com/p/a.bonfim.tech) · [Coursera](https://www.coursera.org/user/387e903d6f45f8fb94e4fa3725859059)
 
 ## Training & Credentials
 
