@@ -10,13 +10,24 @@ Hands-on SOC portfolio demonstrating **Microsoft Defender/XDR and Sentinel inves
 
 ## SOC / Junior Cybersecurity — Start Here
 
-1. **[SOC Analyst Lab — investigations, detection and escalation](https://github.com/a-bonfim-tech/soc-analyst-lab)**: public SOC portfolio with authorized-lab Defender for Endpoint/XDR and Microsoft Sentinel EDR/SIEM investigation, synthetic phishing/email investigation, Windows/Linux/network cases, documented escalation/disposition, and supporting KQL/Sigma artifacts.
-2. **[Detection and analyst review — public homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)**: retained Suricata alert, Wazuh native rule-test output, negative controls and native PF evidence.
-3. **[Linux workstation evidence](https://github.com/a-bonfim-tech/kali-devsecops-baseline)**: dated Linux security-state collection and scripts.
-4. **[Network investigation](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)**: guided packet-analysis case covering phishing traffic and IOC extraction.
-5. **[TLS evidence](https://github.com/a-bonfim-tech/security-plus-crypto-lab)**: retained TLS handshake and certificate analysis artifacts.
+**Start here → [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)**
 
-The [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab) is the primary review path. It leads with authorized-lab Microsoft Defender for Endpoint/XDR and Microsoft Sentinel investigation, plus synthetic phishing/email triage; Windows, Linux and network investigations provide broader analyst coverage, with KQL and Sigma retained as supporting detection depth.
+### 1. [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)
+Defender/XDR, Sentinel, phishing, Windows/network investigations, evidence correlation, severity, disposition and escalation.
+
+### 2. [Cybersecurity Private Cloud Homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)
+Executed network-security and detection evidence with Suricata, Wazuh, native PF segmentation and negative controls.
+
+### 3. [Kali DevSecOps Baseline](https://github.com/a-bonfim-tech/kali-devsecops-baseline)
+Dated Linux security-state evidence, firewall and service review, authentication checks and repeatable collection scripts.
+
+<details>
+<summary><strong>Supporting security projects</strong></summary>
+
+- [TShark Teamwork SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) — guided TryHackMe network-analysis training narrative.
+- [Security+ Crypto Lab](https://github.com/a-bonfim-tech/security-plus-crypto-lab) — retained TLS handshake and certificate-analysis evidence.
+
+</details>
 
 [Portfolio index](PORTFOLIO_INDEX.md) · [CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
 
