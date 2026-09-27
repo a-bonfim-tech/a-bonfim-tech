@@ -37,6 +37,15 @@ Evidence scope: controlled laboratories and reproducible evidence.
 
 Validate the source and time window; preserve evidence; identify the account and asset; correlate related activity; test benign explanations; distinguish observations from hypotheses; assess severity; document findings and uncertainty; escalate when appropriate.
 
+## Professional Cybersecurity Experience
+
+### Panos.AI — Cybersecurity Intern
+**June–August 2026 · 320 hours**
+
+- Defined security-control evaluation criteria and reviewed technical evidence for encryption in transit and at rest, including HTTPS/TLS, certificate validation, HTTP-to-HTTPS redirection and HSTS.
+- Assessed evidence sufficiency and distinguished observed results from unsupported conclusions; worked with Python, JSON, JSON Schema, automated tests and Markdown in a GitHub repository with tasks tracked in Linear.
+- Implementation and testing were AI-assisted, with evaluation criteria, evidence review and conclusions remaining under human direction and critical review.
+
 ## Contact & Continued Development
 
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-bonfim)
