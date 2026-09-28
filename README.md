@@ -33,6 +33,11 @@ Evidence scope: controlled laboratories and reproducible evidence.
 
 [Portfolio index](PORTFOLIO_INDEX.md) · [CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
 
+## Open Source Contribution
+
+**Velociraptor — merged upstream contribution**
+Fixed offline collector logic so artifact sources with false preconditions are skipped as intended, with regression coverage ([PR #5046](https://github.com/Velocidex/velociraptor/pull/5046)).
+
 ## How I approach an alert
 
 Validate the source and time window; preserve evidence; identify the account and asset; correlate related activity; test benign explanations; distinguish observations from hypotheses; assess severity; document findings and uncertainty; escalate when appropriate.
