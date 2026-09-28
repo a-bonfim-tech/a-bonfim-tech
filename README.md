@@ -24,7 +24,7 @@ Collected dated Linux security-state evidence covering firewall, services and au
 <details>
 <summary><strong>Supporting security projects</strong></summary>
 
-- [TShark Teamwork SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) — guided TryHackMe network-analysis training narrative.
+- [TShark Teamwork SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) — independent TShark network analysis with a reproducible synthetic PCAP and retained outputs for independent verification, alongside clearly separated historical TryHackMe training.
 - [Security+ Crypto Lab](https://github.com/a-bonfim-tech/security-plus-crypto-lab) — retained TLS handshake and certificate-analysis evidence.
 
 </details>
