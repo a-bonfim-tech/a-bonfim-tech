@@ -49,7 +49,7 @@ Validate the source and time window; preserve evidence; identify the account and
 
 - Defined security-control evaluation criteria and reviewed technical evidence for encryption in transit and at rest, including HTTPS/TLS, certificate validation, HTTP-to-HTTPS redirection and HSTS.
 - Assessed evidence sufficiency and distinguished observed results from unsupported conclusions; worked with Python, JSON, JSON Schema, automated tests and Markdown in a GitHub repository with tasks tracked in Linear.
-- Implementation and testing were AI-assisted, with evaluation criteria, evidence review and conclusions remaining under human direction and critical review.
+- Applied evaluation criteria to technical evidence, identified evidence gaps and determined which conclusions were sufficiently supported.
 
 ## Contact & Continued Development
 
