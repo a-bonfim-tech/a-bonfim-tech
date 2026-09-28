@@ -59,43 +59,5 @@ Continued development: [TryHackMe](https://tryhackme.com/p/a.bonfim.tech) · [Co
 
 ## Training & Credentials
 
-**MSIT GmbH — Master School Institute of Technology**
-
-**Cybersecurity Bootcamp** · Security Operations Center Analysis · 2,720 instructional hours · June 3, 2025 – August 3, 2026
-
-<details>
-<summary><strong>View credential details</strong></summary>
-
-| Certificate field | Official information |
-| --- | --- |
-| **Course** | **Cybersecurity Bootcamp** |
-| **Duration** | **2,720 instructional hours · June 3, 2025 – August 3, 2026** |
-| **Specialization** | **Security Operations Center Analysis** |
-| **Internship** | **8 weeks · 320 hours** |
-| **Credential ID** | `43529502854875` |
-| **Issue Date** | `July 28, 2026` |
-
-The course title **Cybersecurity Bootcamp** and specialization **Security Operations Center Analysis** are reproduced from the completion certificate.
-
-**Selected curriculum documented on the certificate**
-
-- IT Support Fundamentals: Hardware, Software, Networking Troubleshooting
-- Operating Systems: Windows & Linux Administration
-- Network Architecture & Security: Firewalls, VPNs and Segmentation
-- Cyber Threats Vulnerabilities & Mitigation Strategies
-- Security Tools: SIEM, EDR, Packet Analysis, Forensics Basics
-- Risk Management Governance & Compliance: NIST, ISO, GDPR, HIPAA
-- Identity & Access Management (IAM): MFA and Authentication Protocols
-- Data Security: Encryption, PKI and Secure Disposal Practices
-- System Hardening, Patch Management and Secure Configurations
-- Intro to SQL, Bash, Python Scripting and Automation
-- Incident Response, Business Continuity and Disaster Recovery
-- Virtualization & Cloud Fundamentals: IaaS, SaaS, VMs and Containers
-- Advanced Network Design and Troubleshooting
-- Network Defense and Secure Architecture
-- Solo Project: Secure Network Implementation and Monitoring
-- Internship: 8 weeks, 320 hours
-
-</details>
-
-
+**MSIT GmbH — Cybersecurity Bootcamp · Security Operations Center Analysis**
+2,720 instructional hours · June 3, 2025 – August 3, 2026
