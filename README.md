@@ -18,13 +18,13 @@ Investigated Defender/XDR, Sentinel, Windows/network and phishing cases; correla
 ### 2. [Cybersecurity Private Cloud Homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)
 Validated native PF segmentation, routing, NAT and allow/deny behavior; Suricata and Wazuh detections passed positive and bounded negative tests.
 
-### 3. [Kali DevSecOps Baseline](https://github.com/a-bonfim-tech/kali-devsecops-baseline)
-Collected dated Linux security-state evidence covering firewall, services and authentication, with repeatable baseline outputs retained for review.
+### 3. [TShark Teamwork SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)
+Independent TShark network analysis with a reproducible synthetic PCAP and retained outputs for independent verification, alongside clearly separated historical TryHackMe training.
 
 <details>
 <summary><strong>Supporting security projects</strong></summary>
 
-- [TShark Teamwork SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) — independent TShark network analysis with a reproducible synthetic PCAP and retained outputs for independent verification, alongside clearly separated historical TryHackMe training.
+- [Kali DevSecOps Baseline](https://github.com/a-bonfim-tech/kali-devsecops-baseline) — collected dated Linux security-state evidence covering firewall, services and authentication, with repeatable baseline outputs retained for review.
 - [Security+ Crypto Lab](https://github.com/a-bonfim-tech/security-plus-crypto-lab) — retained TLS handshake and certificate-analysis evidence.
 
 </details>
