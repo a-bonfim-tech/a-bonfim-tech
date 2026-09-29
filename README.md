@@ -1,6 +1,6 @@
 # André Bonfim — SOC Analyst | Security Operations
 
-Alert triage · investigation · evidence correlation · severity assessment · escalation / closure.
+I investigate alerts, correlate evidence, assess severity, and document clear closure or escalation decisions.
 
 ## SOC Analyst Lab — Primary SOC Portfolio
 
