@@ -16,9 +16,21 @@ Defender for Endpoint alerts → Defender XDR incident → Microsoft Sentinel + 
 
 Evidence boundary: controlled laboratory portfolio; not production SOC employment.
 
-## Supporting Proof
+## Open Source — External Validation
 
-**[Velociraptor — merged upstream contribution](https://github.com/Velocidex/velociraptor/pull/5046)** — Fixed offline collector logic so artifact sources with false preconditions are skipped as intended, with regression coverage.
+**Velociraptor — merged upstream contribution**
+
+[PR #5046 — Fix offline collector source precondition enforcement](https://github.com/Velocidex/velociraptor/pull/5046)
+
+Fixed offline collector handling of source-level preconditions and added regression coverage. **Merged upstream.**
+
+**osquery — open upstream contribution**
+
+[PR #9119 — Fix scheduled_tasks hidden state on Windows](https://github.com/osquery/osquery/pull/9119)
+
+Corrects Windows scheduled-task hidden-state reporting and adds a regression test for hidden, disabled tasks. **Open upstream PR — not merged.**
+
+## Supporting Projects
 
 <details>
 <summary><strong>Additional security projects</strong></summary>
