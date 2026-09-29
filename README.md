@@ -14,7 +14,7 @@ Microsoft Defender for Endpoint / Defender XDR · Microsoft Sentinel · Windows 
 
 Defender for Endpoint alerts → Defender XDR incident → Microsoft Sentinel + KQL → severity reassessment → analyst disposition → resolution.
 
-Evidence boundary: controlled laboratory portfolio; not production SOC employment.
+Evidence: reproducible SOC investigations performed in controlled lab environments.
 
 ## Open Source — External Validation
 
