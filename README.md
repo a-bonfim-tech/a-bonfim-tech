@@ -1,46 +1,36 @@
-<p align="center">
-  <img src="assets/github-profile-soc-banner.jpeg" alt="André Bonfim — SOC Analyst | Security Operations" width="100%" />
-</p>
-
 # André Bonfim — SOC Analyst | Security Operations
 
-**Microsoft Defender · Microsoft Sentinel · EDR/SIEM Investigation · Phishing · Incident Investigation · Windows**
+Alert triage · investigation · evidence correlation · severity assessment · escalation / closure.
 
-Investigated **endpoint, EDR/SIEM, phishing and network cases**; correlated evidence, reconstructed activity, reassessed severity, and documented escalation or closure decisions.
+## SOC Analyst Lab — Primary SOC Portfolio
 
-## SOC Analyst Portfolio — Start Here
+**[View SOC Analyst Lab →](https://github.com/a-bonfim-tech/soc-analyst-lab)**
 
-**Primary investigation portfolio → [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)**
+**7 documented SOC investigations · 3 Tier 2 escalation decisions · 9 evidence/telemetry categories**
 
-### 1. [SOC Analyst Lab](https://github.com/a-bonfim-tech/soc-analyst-lab)
-Investigated Defender/XDR, Sentinel, Windows/network and phishing cases; correlated evidence, reassessed severity, resolved authorized lab activity, and escalated unresolved phishing risk to Tier 2.
+Microsoft Defender for Endpoint / Defender XDR · Microsoft Sentinel · Windows · phishing · network · KQL · Sigma
 
-### 2. [Cybersecurity Private Cloud Homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab)
-Validated native PF segmentation, routing, NAT and allow/deny behavior; Suricata and Wazuh detections passed positive and bounded negative tests.
+**Primary proof:** [SOC-2026-006 — EDR-to-SIEM Incident Lifecycle](https://github.com/a-bonfim-tech/soc-analyst-lab/blob/main/03-investigations/SOC-2026-006/investigation.md)
 
-### 3. [TShark Teamwork SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study)
-Independent TShark network analysis with a reproducible synthetic PCAP and retained outputs for independent verification, alongside clearly separated historical TryHackMe training.
+Defender for Endpoint alerts → Defender XDR incident → Microsoft Sentinel + KQL → severity reassessment → analyst disposition → resolution.
+
+Evidence boundary: controlled laboratory portfolio; not production SOC employment.
+
+## Supporting Proof
+
+**[Velociraptor — merged upstream contribution](https://github.com/Velocidex/velociraptor/pull/5046)** — Fixed offline collector logic so artifact sources with false preconditions are skipped as intended, with regression coverage.
 
 <details>
-<summary><strong>Supporting security projects</strong></summary>
+<summary><strong>Additional security projects</strong></summary>
 
+- [Cybersecurity Private Cloud Homelab](https://github.com/a-bonfim-tech/cybersecurity-private-cloud-homelab) — validated native PF segmentation, routing, NAT and allow/deny behavior; Suricata and Wazuh detections passed positive and bounded negative tests.
+- [TShark Teamwork SOC Case Study](https://github.com/a-bonfim-tech/tshark-teamwork-soc-case-study) — independent TShark network analysis with a reproducible synthetic PCAP and retained outputs for independent verification, alongside clearly separated historical TryHackMe training.
 - [Kali DevSecOps Baseline](https://github.com/a-bonfim-tech/kali-devsecops-baseline) — collected dated Linux security-state evidence covering firewall, services and authentication, with repeatable baseline outputs retained for review.
 - [Security+ Crypto Lab](https://github.com/a-bonfim-tech/security-plus-crypto-lab) — retained TLS handshake and certificate-analysis evidence.
 
 </details>
 
-Evidence scope: controlled laboratories and reproducible evidence.
-
 [Portfolio index](PORTFOLIO_INDEX.md) · [CV / LinkedIn evidence map](SOC_PORTFOLIO_TO_CV_MAP.md)
-
-## Open Source Contribution
-
-**Velociraptor — merged upstream contribution**
-Fixed offline collector logic so artifact sources with false preconditions are skipped as intended, with regression coverage ([PR #5046](https://github.com/Velocidex/velociraptor/pull/5046)).
-
-## How I approach an alert
-
-Validate the source and time window; preserve evidence; identify the account and asset; correlate related activity; test benign explanations; distinguish observations from hypotheses; assess severity; document findings and uncertainty; escalate when appropriate.
 
 ## Professional Cybersecurity Experience
 
